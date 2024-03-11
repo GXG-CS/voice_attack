@@ -53,4 +53,4 @@ if __name__ == "__main__":
     parallel_processing(tasks, args.num_processes)
 
 
-# python text2speech.py --model_name "tts_models/en/ljspeech/tacotron2-DCA" --text_files_directory "../../raw_data/dilawer11/simple_50_alexa/text_A" --base_audio_files_directory "../../raw_data/dilawer11/simple_50_alexa/audioPlay_A" 
+# python text2speech.py --model_name "tts_models/en/ljspeech/tacotron2-DCA" --text_files_directory "../../raw_data/dilawer11/simple_100_alexa/text_A" --base_audio_files_directory "../../raw_data/dilawer11/simple_100_alexa/audioPlay_A" 
