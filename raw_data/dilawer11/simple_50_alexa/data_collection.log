@@ -1,0 +1,1099 @@
+2024-03-12 13:51:53,179:INFO:Starting main function
+2024-03-12 13:51:53,200:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 13:51:53,299:INFO:Authentication (password) successful!
+2024-03-12 13:51:53,376:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 13:51:53,376:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 13:51:53,435:INFO:Starting to play audio file: audioPlay_A\simple_10.wav
+2024-03-12 13:51:53,482:INFO:Finished playing audio file: audioPlay_A\simple_10.wav
+2024-03-12 13:52:49,136:INFO:Starting main function
+2024-03-12 13:52:49,157:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 13:52:49,257:INFO:Authentication (password) successful!
+2024-03-12 13:52:49,334:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 13:52:49,334:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 13:52:49,405:INFO:Starting to play audio file: audioPlay_A\simple_10.wav
+2024-03-12 13:52:49,453:INFO:Finished playing audio file: audioPlay_A\simple_10.wav
+2024-03-12 13:58:57,437:INFO:Starting to play audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_1.wav
+2024-03-12 13:58:57,486:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_1.wav
+2024-03-12 13:59:11,833:INFO:Starting to play audio file: \audioPlay_A\simple_1.wav
+2024-03-12 13:59:11,881:INFO:Finished playing audio file: \audioPlay_A\simple_1.wav
+2024-03-12 13:59:21,055:INFO:Starting to play audio file: audioPlay_A\simple_1.wav
+2024-03-12 13:59:21,101:INFO:Finished playing audio file: audioPlay_A\simple_1.wav
+2024-03-12 14:01:49,860:INFO:Starting to play audio file: audioPlay_A/simple_1.wav
+2024-03-12 14:01:49,909:INFO:Finished playing audio file: audioPlay_A/simple_1.wav
+2024-03-12 14:03:16,001:INFO:Starting to play audio file: audioPlay_A\simple_1.wav
+2024-03-12 14:03:16,049:INFO:Finished playing audio file: audioPlay_A\simple_1.wav
+2024-03-12 14:03:33,780:INFO:Starting to play audio file: audioPlay_A\simple_1.wav
+2024-03-12 14:03:33,828:INFO:Finished playing audio file: audioPlay_A\simple_1.wav
+2024-03-12 14:05:41,216:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_1.wav
+2024-03-12 14:05:41,264:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_1.wav
+2024-03-12 14:05:54,601:INFO:Starting main function
+2024-03-12 14:05:54,621:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:05:54,728:INFO:Authentication (password) successful!
+2024-03-12 14:05:54,807:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:05:54,807:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:05:54,877:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:05:54,924:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:09:12,789:INFO:Starting main function
+2024-03-12 14:09:12,808:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:09:12,905:INFO:Authentication (password) successful!
+2024-03-12 14:09:12,984:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:09:12,984:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:09:13,045:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:09:13,093:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:10:00,476:INFO:Starting main function
+2024-03-12 14:10:00,496:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:10:00,600:INFO:Authentication (password) successful!
+2024-03-12 14:10:00,683:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:10:00,683:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:10:00,746:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:10:00,795:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:10:22,096:INFO:Starting main function
+2024-03-12 14:10:22,116:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:10:22,218:INFO:Authentication (password) successful!
+2024-03-12 14:10:22,301:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:10:22,301:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:10:22,362:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:10:22,409:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:13:08,960:INFO:Starting main function
+2024-03-12 14:13:08,980:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:13:09,086:INFO:Authentication (password) successful!
+2024-03-12 14:13:09,162:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:13:09,162:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:13:09,222:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:13:09,271:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:13:45,823:INFO:Starting main function
+2024-03-12 14:13:45,842:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:13:45,943:INFO:Authentication (password) successful!
+2024-03-12 14:13:46,025:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:13:46,025:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:13:46,081:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:13:46,130:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:41,363:INFO:Starting main function
+2024-03-12 14:18:41,382:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:18:41,500:INFO:Authentication (password) successful!
+2024-03-12 14:18:41,576:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:18:41,576:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:18:41,637:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:41,684:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:41,718:INFO:Processing 2/1000 for simple_10.wav
+2024-03-12 14:18:41,718:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/2.pcap
+2024-03-12 14:18:41,778:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:41,825:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:41,860:INFO:Processing 3/1000 for simple_10.wav
+2024-03-12 14:18:41,860:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/3.pcap
+2024-03-12 14:18:41,916:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:41,967:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:41,999:INFO:Processing 4/1000 for simple_10.wav
+2024-03-12 14:18:41,999:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/4.pcap
+2024-03-12 14:18:42,055:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,104:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,131:INFO:Processing 5/1000 for simple_10.wav
+2024-03-12 14:18:42,131:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/5.pcap
+2024-03-12 14:18:42,188:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,239:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,272:INFO:Processing 6/1000 for simple_10.wav
+2024-03-12 14:18:42,272:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/6.pcap
+2024-03-12 14:18:42,328:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,379:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,413:INFO:Processing 7/1000 for simple_10.wav
+2024-03-12 14:18:42,413:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/7.pcap
+2024-03-12 14:18:42,474:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,527:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,564:INFO:Processing 8/1000 for simple_10.wav
+2024-03-12 14:18:42,564:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/8.pcap
+2024-03-12 14:18:42,625:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,679:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,703:INFO:Processing 9/1000 for simple_10.wav
+2024-03-12 14:18:42,703:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/9.pcap
+2024-03-12 14:18:42,767:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,818:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,851:INFO:Processing 10/1000 for simple_10.wav
+2024-03-12 14:18:42,851:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/10.pcap
+2024-03-12 14:18:42,917:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:42,969:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,018:INFO:Processing 11/1000 for simple_10.wav
+2024-03-12 14:18:43,018:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/11.pcap
+2024-03-12 14:18:43,078:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,134:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,165:INFO:Processing 12/1000 for simple_10.wav
+2024-03-12 14:18:43,166:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/12.pcap
+2024-03-12 14:18:43,227:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,281:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,307:INFO:Processing 13/1000 for simple_10.wav
+2024-03-12 14:18:43,307:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/13.pcap
+2024-03-12 14:18:43,374:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,426:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,467:INFO:Processing 14/1000 for simple_10.wav
+2024-03-12 14:18:43,467:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/14.pcap
+2024-03-12 14:18:43,528:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,579:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,612:INFO:Processing 15/1000 for simple_10.wav
+2024-03-12 14:18:43,612:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/15.pcap
+2024-03-12 14:18:43,678:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,730:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,780:INFO:Processing 16/1000 for simple_10.wav
+2024-03-12 14:18:43,780:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/16.pcap
+2024-03-12 14:18:43,837:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,892:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:43,918:INFO:Processing 17/1000 for simple_10.wav
+2024-03-12 14:18:43,918:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/17.pcap
+2024-03-12 14:18:43,997:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,049:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,087:INFO:Processing 18/1000 for simple_10.wav
+2024-03-12 14:18:44,087:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/18.pcap
+2024-03-12 14:18:44,147:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,201:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,227:INFO:Processing 19/1000 for simple_10.wav
+2024-03-12 14:18:44,228:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/19.pcap
+2024-03-12 14:18:44,298:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,353:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,380:INFO:Processing 20/1000 for simple_10.wav
+2024-03-12 14:18:44,381:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/20.pcap
+2024-03-12 14:18:44,445:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,496:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,539:INFO:Processing 21/1000 for simple_10.wav
+2024-03-12 14:18:44,539:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/21.pcap
+2024-03-12 14:18:44,607:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,660:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,697:INFO:Processing 22/1000 for simple_10.wav
+2024-03-12 14:18:44,697:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/22.pcap
+2024-03-12 14:18:44,769:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,823:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,856:INFO:Processing 23/1000 for simple_10.wav
+2024-03-12 14:18:44,856:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/23.pcap
+2024-03-12 14:18:44,925:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:44,980:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,011:INFO:Processing 24/1000 for simple_10.wav
+2024-03-12 14:18:45,011:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/24.pcap
+2024-03-12 14:18:45,077:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,131:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,165:INFO:Processing 25/1000 for simple_10.wav
+2024-03-12 14:18:45,165:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/25.pcap
+2024-03-12 14:18:45,227:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,281:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,314:INFO:Processing 26/1000 for simple_10.wav
+2024-03-12 14:18:45,314:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/26.pcap
+2024-03-12 14:18:45,377:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,429:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,454:INFO:Processing 27/1000 for simple_10.wav
+2024-03-12 14:18:45,454:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/27.pcap
+2024-03-12 14:18:45,518:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,574:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,622:INFO:Processing 28/1000 for simple_10.wav
+2024-03-12 14:18:45,622:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/28.pcap
+2024-03-12 14:18:45,688:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,742:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,771:INFO:Processing 29/1000 for simple_10.wav
+2024-03-12 14:18:45,771:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/29.pcap
+2024-03-12 14:18:45,833:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,887:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:45,920:INFO:Processing 30/1000 for simple_10.wav
+2024-03-12 14:18:45,920:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/30.pcap
+2024-03-12 14:18:45,975:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,026:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,051:INFO:Processing 31/1000 for simple_10.wav
+2024-03-12 14:18:46,051:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/31.pcap
+2024-03-12 14:18:46,107:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,166:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,199:INFO:Processing 32/1000 for simple_10.wav
+2024-03-12 14:18:46,199:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/32.pcap
+2024-03-12 14:18:46,256:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,308:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,339:INFO:Processing 33/1000 for simple_10.wav
+2024-03-12 14:18:46,340:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/33.pcap
+2024-03-12 14:18:46,397:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,451:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,478:INFO:Processing 34/1000 for simple_10.wav
+2024-03-12 14:18:46,478:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/34.pcap
+2024-03-12 14:18:46,542:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,597:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,629:INFO:Processing 35/1000 for simple_10.wav
+2024-03-12 14:18:46,629:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/35.pcap
+2024-03-12 14:18:46,697:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,750:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,781:INFO:Processing 36/1000 for simple_10.wav
+2024-03-12 14:18:46,781:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/36.pcap
+2024-03-12 14:18:46,856:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,910:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:46,941:INFO:Processing 37/1000 for simple_10.wav
+2024-03-12 14:18:46,941:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/37.pcap
+2024-03-12 14:18:46,998:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,053:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,084:INFO:Processing 38/1000 for simple_10.wav
+2024-03-12 14:18:47,084:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/38.pcap
+2024-03-12 14:18:47,147:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,202:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,227:INFO:Processing 39/1000 for simple_10.wav
+2024-03-12 14:18:47,227:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/39.pcap
+2024-03-12 14:18:47,288:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,342:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,372:INFO:Processing 40/1000 for simple_10.wav
+2024-03-12 14:18:47,373:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/40.pcap
+2024-03-12 14:18:47,438:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,492:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,523:INFO:Processing 41/1000 for simple_10.wav
+2024-03-12 14:18:47,524:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/41.pcap
+2024-03-12 14:18:47,586:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,637:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,662:INFO:Processing 42/1000 for simple_10.wav
+2024-03-12 14:18:47,662:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/42.pcap
+2024-03-12 14:18:47,724:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,780:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,804:INFO:Processing 43/1000 for simple_10.wav
+2024-03-12 14:18:47,804:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/43.pcap
+2024-03-12 14:18:47,867:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,923:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:47,954:INFO:Processing 44/1000 for simple_10.wav
+2024-03-12 14:18:47,954:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/44.pcap
+2024-03-12 14:18:48,030:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:48,084:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:48,117:INFO:Processing 45/1000 for simple_10.wav
+2024-03-12 14:18:48,117:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/45.pcap
+2024-03-12 14:18:48,177:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:48,231:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:48,255:INFO:Processing 46/1000 for simple_10.wav
+2024-03-12 14:18:48,255:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/46.pcap
+2024-03-12 14:18:48,311:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:18:48,369:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:19,907:INFO:Starting main function
+2024-03-12 14:23:19,927:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:23:20,030:INFO:Authentication (password) successful!
+2024-03-12 14:23:20,114:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:23:20,114:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:23:20,174:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,224:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,259:INFO:Processing 2/1000 for simple_10.wav
+2024-03-12 14:23:20,259:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/2.pcap
+2024-03-12 14:23:20,323:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,379:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,414:INFO:Processing 3/1000 for simple_10.wav
+2024-03-12 14:23:20,414:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/3.pcap
+2024-03-12 14:23:20,472:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,525:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,556:INFO:Processing 4/1000 for simple_10.wav
+2024-03-12 14:23:20,556:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/4.pcap
+2024-03-12 14:23:20,629:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,685:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,717:INFO:Processing 5/1000 for simple_10.wav
+2024-03-12 14:23:20,718:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/5.pcap
+2024-03-12 14:23:20,770:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,828:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,857:INFO:Processing 6/1000 for simple_10.wav
+2024-03-12 14:23:20,857:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/6.pcap
+2024-03-12 14:23:20,923:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:20,975:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,009:INFO:Processing 7/1000 for simple_10.wav
+2024-03-12 14:23:21,009:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/7.pcap
+2024-03-12 14:23:21,083:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,137:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,168:INFO:Processing 8/1000 for simple_10.wav
+2024-03-12 14:23:21,168:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/8.pcap
+2024-03-12 14:23:21,221:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,274:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,315:INFO:Processing 9/1000 for simple_10.wav
+2024-03-12 14:23:21,315:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/9.pcap
+2024-03-12 14:23:21,384:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,442:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,476:INFO:Processing 10/1000 for simple_10.wav
+2024-03-12 14:23:21,476:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/10.pcap
+2024-03-12 14:23:21,538:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,598:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,633:INFO:Processing 11/1000 for simple_10.wav
+2024-03-12 14:23:21,633:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/11.pcap
+2024-03-12 14:23:21,704:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,762:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,793:INFO:Processing 12/1000 for simple_10.wav
+2024-03-12 14:23:21,793:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/12.pcap
+2024-03-12 14:23:21,862:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,920:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:21,947:INFO:Processing 13/1000 for simple_10.wav
+2024-03-12 14:23:21,947:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/13.pcap
+2024-03-12 14:23:22,006:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,059:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,090:INFO:Processing 14/1000 for simple_10.wav
+2024-03-12 14:23:22,090:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/14.pcap
+2024-03-12 14:23:22,154:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,209:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,234:INFO:Processing 15/1000 for simple_10.wav
+2024-03-12 14:23:22,234:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/15.pcap
+2024-03-12 14:23:22,291:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,346:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,376:INFO:Processing 16/1000 for simple_10.wav
+2024-03-12 14:23:22,376:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/16.pcap
+2024-03-12 14:23:22,433:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,488:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,526:INFO:Processing 17/1000 for simple_10.wav
+2024-03-12 14:23:22,526:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/17.pcap
+2024-03-12 14:23:22,596:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,653:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,679:INFO:Processing 18/1000 for simple_10.wav
+2024-03-12 14:23:22,679:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/18.pcap
+2024-03-12 14:23:22,742:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,795:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,821:INFO:Processing 19/1000 for simple_10.wav
+2024-03-12 14:23:22,821:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/19.pcap
+2024-03-12 14:23:22,882:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,938:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:22,963:INFO:Processing 20/1000 for simple_10.wav
+2024-03-12 14:23:22,963:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/20.pcap
+2024-03-12 14:23:23,023:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,082:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,108:INFO:Processing 21/1000 for simple_10.wav
+2024-03-12 14:23:23,108:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/21.pcap
+2024-03-12 14:23:23,201:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,253:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,286:INFO:Processing 22/1000 for simple_10.wav
+2024-03-12 14:23:23,286:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/22.pcap
+2024-03-12 14:23:23,347:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,402:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,427:INFO:Processing 23/1000 for simple_10.wav
+2024-03-12 14:23:23,427:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/23.pcap
+2024-03-12 14:23:23,490:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,550:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,578:INFO:Processing 24/1000 for simple_10.wav
+2024-03-12 14:23:23,578:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/24.pcap
+2024-03-12 14:23:23,633:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,689:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,719:INFO:Processing 25/1000 for simple_10.wav
+2024-03-12 14:23:23,720:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/25.pcap
+2024-03-12 14:23:23,784:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,840:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:23,875:INFO:Processing 26/1000 for simple_10.wav
+2024-03-12 14:23:23,875:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/26.pcap
+2024-03-12 14:23:23,944:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,005:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,038:INFO:Processing 27/1000 for simple_10.wav
+2024-03-12 14:23:24,038:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/27.pcap
+2024-03-12 14:23:24,097:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,152:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,184:INFO:Processing 28/1000 for simple_10.wav
+2024-03-12 14:23:24,185:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/28.pcap
+2024-03-12 14:23:24,251:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,304:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,332:INFO:Processing 29/1000 for simple_10.wav
+2024-03-12 14:23:24,332:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/29.pcap
+2024-03-12 14:23:24,409:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,462:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,494:INFO:Processing 30/1000 for simple_10.wav
+2024-03-12 14:23:24,494:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/30.pcap
+2024-03-12 14:23:24,548:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,605:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,632:INFO:Processing 31/1000 for simple_10.wav
+2024-03-12 14:23:24,632:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/31.pcap
+2024-03-12 14:23:24,703:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,762:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,810:INFO:Processing 32/1000 for simple_10.wav
+2024-03-12 14:23:24,810:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/32.pcap
+2024-03-12 14:23:24,875:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,933:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:24,969:INFO:Processing 33/1000 for simple_10.wav
+2024-03-12 14:23:24,969:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/33.pcap
+2024-03-12 14:23:25,041:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,093:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,129:INFO:Processing 34/1000 for simple_10.wav
+2024-03-12 14:23:25,129:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/34.pcap
+2024-03-12 14:23:25,189:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,243:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,274:INFO:Processing 35/1000 for simple_10.wav
+2024-03-12 14:23:25,274:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/35.pcap
+2024-03-12 14:23:25,344:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,399:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,433:INFO:Processing 36/1000 for simple_10.wav
+2024-03-12 14:23:25,433:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/36.pcap
+2024-03-12 14:23:25,496:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,550:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,590:INFO:Processing 37/1000 for simple_10.wav
+2024-03-12 14:23:25,591:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/37.pcap
+2024-03-12 14:23:25,665:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,719:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,751:INFO:Processing 38/1000 for simple_10.wav
+2024-03-12 14:23:25,751:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/38.pcap
+2024-03-12 14:23:25,824:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,881:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:25,914:INFO:Processing 39/1000 for simple_10.wav
+2024-03-12 14:23:25,914:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/39.pcap
+2024-03-12 14:23:25,984:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,038:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,062:INFO:Processing 40/1000 for simple_10.wav
+2024-03-12 14:23:26,062:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/40.pcap
+2024-03-12 14:23:26,122:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,178:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,213:INFO:Processing 41/1000 for simple_10.wav
+2024-03-12 14:23:26,213:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/41.pcap
+2024-03-12 14:23:26,274:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,328:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,357:INFO:Processing 42/1000 for simple_10.wav
+2024-03-12 14:23:26,357:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/42.pcap
+2024-03-12 14:23:26,413:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,467:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,491:INFO:Processing 43/1000 for simple_10.wav
+2024-03-12 14:23:26,491:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/43.pcap
+2024-03-12 14:23:26,560:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,614:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,650:INFO:Processing 44/1000 for simple_10.wav
+2024-03-12 14:23:26,650:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/44.pcap
+2024-03-12 14:23:26,715:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,770:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,830:INFO:Processing 45/1000 for simple_10.wav
+2024-03-12 14:23:26,830:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/45.pcap
+2024-03-12 14:23:26,892:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,948:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:26,978:INFO:Processing 46/1000 for simple_10.wav
+2024-03-12 14:23:26,978:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/46.pcap
+2024-03-12 14:23:27,040:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,094:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,126:INFO:Processing 47/1000 for simple_10.wav
+2024-03-12 14:23:27,126:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/47.pcap
+2024-03-12 14:23:27,183:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,234:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,264:INFO:Processing 48/1000 for simple_10.wav
+2024-03-12 14:23:27,264:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/48.pcap
+2024-03-12 14:23:27,323:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,376:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,417:INFO:Processing 49/1000 for simple_10.wav
+2024-03-12 14:23:27,417:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/49.pcap
+2024-03-12 14:23:27,478:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,534:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,564:INFO:Processing 50/1000 for simple_10.wav
+2024-03-12 14:23:27,564:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/50.pcap
+2024-03-12 14:23:27,637:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,695:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,724:INFO:Processing 51/1000 for simple_10.wav
+2024-03-12 14:23:27,724:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/51.pcap
+2024-03-12 14:23:27,795:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,854:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:27,891:INFO:Processing 52/1000 for simple_10.wav
+2024-03-12 14:23:27,891:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/52.pcap
+2024-03-12 14:23:27,953:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,007:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,035:INFO:Processing 53/1000 for simple_10.wav
+2024-03-12 14:23:28,035:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/53.pcap
+2024-03-12 14:23:28,102:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,157:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,187:INFO:Processing 54/1000 for simple_10.wav
+2024-03-12 14:23:28,187:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/54.pcap
+2024-03-12 14:23:28,245:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,299:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,326:INFO:Processing 55/1000 for simple_10.wav
+2024-03-12 14:23:28,326:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/55.pcap
+2024-03-12 14:23:28,389:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,441:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,478:INFO:Processing 56/1000 for simple_10.wav
+2024-03-12 14:23:28,478:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/56.pcap
+2024-03-12 14:23:28,543:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,597:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,622:INFO:Processing 57/1000 for simple_10.wav
+2024-03-12 14:23:28,622:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/57.pcap
+2024-03-12 14:23:28,697:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,753:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,779:INFO:Processing 58/1000 for simple_10.wav
+2024-03-12 14:23:28,780:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/58.pcap
+2024-03-12 14:23:28,855:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,907:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:28,937:INFO:Processing 59/1000 for simple_10.wav
+2024-03-12 14:23:28,937:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/59.pcap
+2024-03-12 14:23:29,003:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,064:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,091:INFO:Processing 60/1000 for simple_10.wav
+2024-03-12 14:23:29,091:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/60.pcap
+2024-03-12 14:23:29,148:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,205:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,238:INFO:Processing 61/1000 for simple_10.wav
+2024-03-12 14:23:29,238:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/61.pcap
+2024-03-12 14:23:29,305:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,362:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,402:INFO:Processing 62/1000 for simple_10.wav
+2024-03-12 14:23:29,402:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/62.pcap
+2024-03-12 14:23:29,465:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,519:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,542:INFO:Processing 63/1000 for simple_10.wav
+2024-03-12 14:23:29,542:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/63.pcap
+2024-03-12 14:23:29,603:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,663:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,690:INFO:Processing 64/1000 for simple_10.wav
+2024-03-12 14:23:29,690:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/64.pcap
+2024-03-12 14:23:29,765:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,820:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,851:INFO:Processing 65/1000 for simple_10.wav
+2024-03-12 14:23:29,851:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/65.pcap
+2024-03-12 14:23:29,915:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:29,975:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,012:INFO:Processing 66/1000 for simple_10.wav
+2024-03-12 14:23:30,012:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/66.pcap
+2024-03-12 14:23:30,083:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,143:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,173:INFO:Processing 67/1000 for simple_10.wav
+2024-03-12 14:23:30,173:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/67.pcap
+2024-03-12 14:23:30,237:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,294:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,322:INFO:Processing 68/1000 for simple_10.wav
+2024-03-12 14:23:30,323:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/68.pcap
+2024-03-12 14:23:30,383:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,438:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,469:INFO:Processing 69/1000 for simple_10.wav
+2024-03-12 14:23:30,469:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/69.pcap
+2024-03-12 14:23:30,543:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,598:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,631:INFO:Processing 70/1000 for simple_10.wav
+2024-03-12 14:23:30,631:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/70.pcap
+2024-03-12 14:23:30,704:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,766:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,800:INFO:Processing 71/1000 for simple_10.wav
+2024-03-12 14:23:30,800:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/71.pcap
+2024-03-12 14:23:30,878:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,934:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:30,962:INFO:Processing 72/1000 for simple_10.wav
+2024-03-12 14:23:30,962:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/72.pcap
+2024-03-12 14:23:31,035:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,094:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,124:INFO:Processing 73/1000 for simple_10.wav
+2024-03-12 14:23:31,125:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/73.pcap
+2024-03-12 14:23:31,183:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,238:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,272:INFO:Processing 74/1000 for simple_10.wav
+2024-03-12 14:23:31,272:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/74.pcap
+2024-03-12 14:23:31,336:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,397:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,426:INFO:Processing 75/1000 for simple_10.wav
+2024-03-12 14:23:31,426:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/75.pcap
+2024-03-12 14:23:31,488:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,543:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,575:INFO:Processing 76/1000 for simple_10.wav
+2024-03-12 14:23:31,575:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/76.pcap
+2024-03-12 14:23:31,633:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,691:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,721:INFO:Processing 77/1000 for simple_10.wav
+2024-03-12 14:23:31,721:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/77.pcap
+2024-03-12 14:23:31,786:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,841:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:31,872:INFO:Processing 78/1000 for simple_10.wav
+2024-03-12 14:23:31,873:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/78.pcap
+2024-03-12 14:23:31,937:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,003:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,037:INFO:Processing 79/1000 for simple_10.wav
+2024-03-12 14:23:32,037:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/79.pcap
+2024-03-12 14:23:32,095:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,150:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,174:INFO:Processing 80/1000 for simple_10.wav
+2024-03-12 14:23:32,174:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/80.pcap
+2024-03-12 14:23:32,241:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,296:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,332:INFO:Processing 81/1000 for simple_10.wav
+2024-03-12 14:23:32,332:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/81.pcap
+2024-03-12 14:23:32,393:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,457:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,490:INFO:Processing 82/1000 for simple_10.wav
+2024-03-12 14:23:32,490:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/82.pcap
+2024-03-12 14:23:32,552:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,613:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,648:INFO:Processing 83/1000 for simple_10.wav
+2024-03-12 14:23:32,648:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/83.pcap
+2024-03-12 14:23:32,714:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,771:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,807:INFO:Processing 84/1000 for simple_10.wav
+2024-03-12 14:23:32,808:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/84.pcap
+2024-03-12 14:23:32,872:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,930:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:32,955:INFO:Processing 85/1000 for simple_10.wav
+2024-03-12 14:23:32,955:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/85.pcap
+2024-03-12 14:23:33,013:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,071:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,099:INFO:Processing 86/1000 for simple_10.wav
+2024-03-12 14:23:33,099:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/86.pcap
+2024-03-12 14:23:33,165:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,220:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,261:INFO:Processing 87/1000 for simple_10.wav
+2024-03-12 14:23:33,261:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/87.pcap
+2024-03-12 14:23:33,326:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,382:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,417:INFO:Processing 88/1000 for simple_10.wav
+2024-03-12 14:23:33,417:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/88.pcap
+2024-03-12 14:23:33,474:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,537:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,575:INFO:Processing 89/1000 for simple_10.wav
+2024-03-12 14:23:33,575:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/89.pcap
+2024-03-12 14:23:33,645:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,703:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,728:INFO:Processing 90/1000 for simple_10.wav
+2024-03-12 14:23:33,728:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/90.pcap
+2024-03-12 14:23:33,783:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,839:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,871:INFO:Processing 91/1000 for simple_10.wav
+2024-03-12 14:23:33,871:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/91.pcap
+2024-03-12 14:23:33,930:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:33,988:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,013:INFO:Processing 92/1000 for simple_10.wav
+2024-03-12 14:23:34,013:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/92.pcap
+2024-03-12 14:23:34,070:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,129:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,159:INFO:Processing 93/1000 for simple_10.wav
+2024-03-12 14:23:34,159:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/93.pcap
+2024-03-12 14:23:34,236:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,297:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,329:INFO:Processing 94/1000 for simple_10.wav
+2024-03-12 14:23:34,329:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/94.pcap
+2024-03-12 14:23:34,395:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,452:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,483:INFO:Processing 95/1000 for simple_10.wav
+2024-03-12 14:23:34,483:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/95.pcap
+2024-03-12 14:23:34,546:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,603:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,638:INFO:Processing 96/1000 for simple_10.wav
+2024-03-12 14:23:34,638:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/96.pcap
+2024-03-12 14:23:34,705:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,759:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,792:INFO:Processing 97/1000 for simple_10.wav
+2024-03-12 14:23:34,792:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/97.pcap
+2024-03-12 14:23:34,851:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,908:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:34,937:INFO:Processing 98/1000 for simple_10.wav
+2024-03-12 14:23:34,937:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/98.pcap
+2024-03-12 14:23:35,001:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,063:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,094:INFO:Processing 99/1000 for simple_10.wav
+2024-03-12 14:23:35,094:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/99.pcap
+2024-03-12 14:23:35,158:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,216:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,253:INFO:Processing 100/1000 for simple_10.wav
+2024-03-12 14:23:35,253:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/100.pcap
+2024-03-12 14:23:35,314:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,370:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,393:INFO:Processing 101/1000 for simple_10.wav
+2024-03-12 14:23:35,393:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/101.pcap
+2024-03-12 14:23:35,454:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,517:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,555:INFO:Processing 102/1000 for simple_10.wav
+2024-03-12 14:23:35,555:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/102.pcap
+2024-03-12 14:23:35,616:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,675:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,702:INFO:Processing 103/1000 for simple_10.wav
+2024-03-12 14:23:35,702:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/103.pcap
+2024-03-12 14:23:35,767:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,826:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,853:INFO:Processing 104/1000 for simple_10.wav
+2024-03-12 14:23:35,853:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/104.pcap
+2024-03-12 14:23:35,913:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:35,976:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,008:INFO:Processing 105/1000 for simple_10.wav
+2024-03-12 14:23:36,008:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/105.pcap
+2024-03-12 14:23:36,070:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,129:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,163:INFO:Processing 106/1000 for simple_10.wav
+2024-03-12 14:23:36,163:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/106.pcap
+2024-03-12 14:23:36,223:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,279:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,312:INFO:Processing 107/1000 for simple_10.wav
+2024-03-12 14:23:36,312:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/107.pcap
+2024-03-12 14:23:36,373:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,429:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,453:INFO:Processing 108/1000 for simple_10.wav
+2024-03-12 14:23:36,453:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/108.pcap
+2024-03-12 14:23:36,509:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,562:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,600:INFO:Processing 109/1000 for simple_10.wav
+2024-03-12 14:23:36,600:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/109.pcap
+2024-03-12 14:23:36,667:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,722:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,752:INFO:Processing 110/1000 for simple_10.wav
+2024-03-12 14:23:36,752:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/110.pcap
+2024-03-12 14:23:36,826:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,886:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:36,920:INFO:Processing 111/1000 for simple_10.wav
+2024-03-12 14:23:36,920:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/111.pcap
+2024-03-12 14:23:36,987:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,047:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,078:INFO:Processing 112/1000 for simple_10.wav
+2024-03-12 14:23:37,078:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/112.pcap
+2024-03-12 14:23:37,139:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,195:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,225:INFO:Processing 113/1000 for simple_10.wav
+2024-03-12 14:23:37,225:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/113.pcap
+2024-03-12 14:23:37,281:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,338:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,366:INFO:Processing 114/1000 for simple_10.wav
+2024-03-12 14:23:37,366:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/114.pcap
+2024-03-12 14:23:37,429:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,486:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,524:INFO:Processing 115/1000 for simple_10.wav
+2024-03-12 14:23:37,524:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/115.pcap
+2024-03-12 14:23:37,597:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,651:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,677:INFO:Processing 116/1000 for simple_10.wav
+2024-03-12 14:23:37,678:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/116.pcap
+2024-03-12 14:23:37,736:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,795:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,828:INFO:Processing 117/1000 for simple_10.wav
+2024-03-12 14:23:37,828:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/117.pcap
+2024-03-12 14:23:37,883:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,939:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:37,971:INFO:Processing 118/1000 for simple_10.wav
+2024-03-12 14:23:37,971:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/118.pcap
+2024-03-12 14:23:38,045:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,102:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,134:INFO:Processing 119/1000 for simple_10.wav
+2024-03-12 14:23:38,134:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/119.pcap
+2024-03-12 14:23:38,196:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,253:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,278:INFO:Processing 120/1000 for simple_10.wav
+2024-03-12 14:23:38,279:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/120.pcap
+2024-03-12 14:23:38,338:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,395:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,424:INFO:Processing 121/1000 for simple_10.wav
+2024-03-12 14:23:38,424:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/121.pcap
+2024-03-12 14:23:38,492:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,551:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,581:INFO:Processing 122/1000 for simple_10.wav
+2024-03-12 14:23:38,581:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/122.pcap
+2024-03-12 14:23:38,643:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,704:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,733:INFO:Processing 123/1000 for simple_10.wav
+2024-03-12 14:23:38,733:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/123.pcap
+2024-03-12 14:23:38,794:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,854:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,880:INFO:Processing 124/1000 for simple_10.wav
+2024-03-12 14:23:38,880:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/124.pcap
+2024-03-12 14:23:38,943:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:38,996:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,027:INFO:Processing 125/1000 for simple_10.wav
+2024-03-12 14:23:39,027:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/125.pcap
+2024-03-12 14:23:39,082:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,145:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,178:INFO:Processing 126/1000 for simple_10.wav
+2024-03-12 14:23:39,178:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/126.pcap
+2024-03-12 14:23:39,243:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,299:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,328:INFO:Processing 127/1000 for simple_10.wav
+2024-03-12 14:23:39,328:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/127.pcap
+2024-03-12 14:23:39,394:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,446:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,473:INFO:Processing 128/1000 for simple_10.wav
+2024-03-12 14:23:39,473:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/128.pcap
+2024-03-12 14:23:39,544:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,603:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,638:INFO:Processing 129/1000 for simple_10.wav
+2024-03-12 14:23:39,638:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/129.pcap
+2024-03-12 14:23:39,703:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,761:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,791:INFO:Processing 130/1000 for simple_10.wav
+2024-03-12 14:23:39,791:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/130.pcap
+2024-03-12 14:23:39,857:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,910:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:39,939:INFO:Processing 131/1000 for simple_10.wav
+2024-03-12 14:23:39,939:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/131.pcap
+2024-03-12 14:23:40,003:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,070:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,098:INFO:Processing 132/1000 for simple_10.wav
+2024-03-12 14:23:40,098:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/132.pcap
+2024-03-12 14:23:40,161:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,219:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,243:INFO:Processing 133/1000 for simple_10.wav
+2024-03-12 14:23:40,243:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/133.pcap
+2024-03-12 14:23:40,318:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,375:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,404:INFO:Processing 134/1000 for simple_10.wav
+2024-03-12 14:23:40,404:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/134.pcap
+2024-03-12 14:23:40,474:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,536:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,570:INFO:Processing 135/1000 for simple_10.wav
+2024-03-12 14:23:40,570:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/135.pcap
+2024-03-12 14:23:40,633:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,690:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,715:INFO:Processing 136/1000 for simple_10.wav
+2024-03-12 14:23:40,715:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/136.pcap
+2024-03-12 14:23:40,772:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,828:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,853:INFO:Processing 137/1000 for simple_10.wav
+2024-03-12 14:23:40,853:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/137.pcap
+2024-03-12 14:23:40,914:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,973:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:40,999:INFO:Processing 138/1000 for simple_10.wav
+2024-03-12 14:23:40,999:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/138.pcap
+2024-03-12 14:23:41,072:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,131:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,164:INFO:Processing 139/1000 for simple_10.wav
+2024-03-12 14:23:41,164:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/139.pcap
+2024-03-12 14:23:41,236:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,294:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,322:INFO:Processing 140/1000 for simple_10.wav
+2024-03-12 14:23:41,322:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/140.pcap
+2024-03-12 14:23:41,389:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,450:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,480:INFO:Processing 141/1000 for simple_10.wav
+2024-03-12 14:23:41,480:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/141.pcap
+2024-03-12 14:23:41,550:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,607:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,641:INFO:Processing 142/1000 for simple_10.wav
+2024-03-12 14:23:41,641:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/142.pcap
+2024-03-12 14:23:41,702:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,763:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,796:INFO:Processing 143/1000 for simple_10.wav
+2024-03-12 14:23:41,796:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/143.pcap
+2024-03-12 14:23:41,853:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,917:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:41,952:INFO:Processing 144/1000 for simple_10.wav
+2024-03-12 14:23:41,952:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/144.pcap
+2024-03-12 14:23:42,017:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,075:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,107:INFO:Processing 145/1000 for simple_10.wav
+2024-03-12 14:23:42,107:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/145.pcap
+2024-03-12 14:23:42,173:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,232:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,257:INFO:Processing 146/1000 for simple_10.wav
+2024-03-12 14:23:42,257:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/146.pcap
+2024-03-12 14:23:42,325:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,384:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,419:INFO:Processing 147/1000 for simple_10.wav
+2024-03-12 14:23:42,419:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/147.pcap
+2024-03-12 14:23:42,484:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,555:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,586:INFO:Processing 148/1000 for simple_10.wav
+2024-03-12 14:23:42,586:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/148.pcap
+2024-03-12 14:23:42,643:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,724:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,757:INFO:Processing 149/1000 for simple_10.wav
+2024-03-12 14:23:42,757:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/149.pcap
+2024-03-12 14:23:42,814:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,880:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:42,916:INFO:Processing 150/1000 for simple_10.wav
+2024-03-12 14:23:42,917:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/150.pcap
+2024-03-12 14:23:42,971:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,031:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,063:INFO:Processing 151/1000 for simple_10.wav
+2024-03-12 14:23:43,064:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/151.pcap
+2024-03-12 14:23:43,137:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,198:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,234:INFO:Processing 152/1000 for simple_10.wav
+2024-03-12 14:23:43,234:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/152.pcap
+2024-03-12 14:23:43,292:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,355:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,387:INFO:Processing 153/1000 for simple_10.wav
+2024-03-12 14:23:43,387:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/153.pcap
+2024-03-12 14:23:43,452:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,512:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,545:INFO:Processing 154/1000 for simple_10.wav
+2024-03-12 14:23:43,545:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/154.pcap
+2024-03-12 14:23:43,613:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,670:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,697:INFO:Processing 155/1000 for simple_10.wav
+2024-03-12 14:23:43,697:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/155.pcap
+2024-03-12 14:23:43,768:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,838:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,869:INFO:Processing 156/1000 for simple_10.wav
+2024-03-12 14:23:43,869:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/156.pcap
+2024-03-12 14:23:43,935:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:43,999:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,027:INFO:Processing 157/1000 for simple_10.wav
+2024-03-12 14:23:44,028:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/157.pcap
+2024-03-12 14:23:44,099:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,167:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,201:INFO:Processing 158/1000 for simple_10.wav
+2024-03-12 14:23:44,201:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/158.pcap
+2024-03-12 14:23:44,270:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,333:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,367:INFO:Processing 159/1000 for simple_10.wav
+2024-03-12 14:23:44,367:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/159.pcap
+2024-03-12 14:23:44,434:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,503:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,536:INFO:Processing 160/1000 for simple_10.wav
+2024-03-12 14:23:44,537:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/160.pcap
+2024-03-12 14:23:44,593:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,650:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,679:INFO:Processing 161/1000 for simple_10.wav
+2024-03-12 14:23:44,679:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/161.pcap
+2024-03-12 14:23:44,742:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,811:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,844:INFO:Processing 162/1000 for simple_10.wav
+2024-03-12 14:23:44,844:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/162.pcap
+2024-03-12 14:23:44,902:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:44,970:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,009:INFO:Processing 163/1000 for simple_10.wav
+2024-03-12 14:23:45,009:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/163.pcap
+2024-03-12 14:23:45,080:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,146:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,177:INFO:Processing 164/1000 for simple_10.wav
+2024-03-12 14:23:45,178:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/164.pcap
+2024-03-12 14:23:45,253:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,311:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,344:INFO:Processing 165/1000 for simple_10.wav
+2024-03-12 14:23:45,344:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/165.pcap
+2024-03-12 14:23:45,404:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,459:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,491:INFO:Processing 166/1000 for simple_10.wav
+2024-03-12 14:23:45,491:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/166.pcap
+2024-03-12 14:23:45,554:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,619:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,646:INFO:Processing 167/1000 for simple_10.wav
+2024-03-12 14:23:45,646:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/167.pcap
+2024-03-12 14:23:45,721:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,780:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,814:INFO:Processing 168/1000 for simple_10.wav
+2024-03-12 14:23:45,815:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/168.pcap
+2024-03-12 14:23:45,876:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,943:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:45,977:INFO:Processing 169/1000 for simple_10.wav
+2024-03-12 14:23:45,977:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/169.pcap
+2024-03-12 14:23:46,046:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,112:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,138:INFO:Processing 170/1000 for simple_10.wav
+2024-03-12 14:23:46,138:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/170.pcap
+2024-03-12 14:23:46,208:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,282:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,313:INFO:Processing 171/1000 for simple_10.wav
+2024-03-12 14:23:46,313:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/171.pcap
+2024-03-12 14:23:46,377:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,438:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,474:INFO:Processing 172/1000 for simple_10.wav
+2024-03-12 14:23:46,474:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/172.pcap
+2024-03-12 14:23:46,534:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,600:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,633:INFO:Processing 173/1000 for simple_10.wav
+2024-03-12 14:23:46,633:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/173.pcap
+2024-03-12 14:23:46,697:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,761:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,789:INFO:Processing 174/1000 for simple_10.wav
+2024-03-12 14:23:46,789:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/174.pcap
+2024-03-12 14:23:46,853:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,910:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:46,939:INFO:Processing 175/1000 for simple_10.wav
+2024-03-12 14:23:46,939:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/175.pcap
+2024-03-12 14:23:46,999:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,064:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,093:INFO:Processing 176/1000 for simple_10.wav
+2024-03-12 14:23:47,094:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/176.pcap
+2024-03-12 14:23:47,159:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,228:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,259:INFO:Processing 177/1000 for simple_10.wav
+2024-03-12 14:23:47,259:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/177.pcap
+2024-03-12 14:23:47,563:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,628:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,654:INFO:Processing 178/1000 for simple_10.wav
+2024-03-12 14:23:47,654:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/178.pcap
+2024-03-12 14:23:47,722:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,793:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,823:INFO:Processing 179/1000 for simple_10.wav
+2024-03-12 14:23:47,824:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/179.pcap
+2024-03-12 14:23:47,883:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,942:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:47,978:INFO:Processing 180/1000 for simple_10.wav
+2024-03-12 14:23:47,978:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/180.pcap
+2024-03-12 14:23:48,035:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,109:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,141:INFO:Processing 181/1000 for simple_10.wav
+2024-03-12 14:23:48,141:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/181.pcap
+2024-03-12 14:23:48,206:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,271:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,304:INFO:Processing 182/1000 for simple_10.wav
+2024-03-12 14:23:48,304:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/182.pcap
+2024-03-12 14:23:48,370:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,445:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,474:INFO:Processing 183/1000 for simple_10.wav
+2024-03-12 14:23:48,474:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/183.pcap
+2024-03-12 14:23:48,531:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,597:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,625:INFO:Processing 184/1000 for simple_10.wav
+2024-03-12 14:23:48,625:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/184.pcap
+2024-03-12 14:23:48,679:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,745:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,777:INFO:Processing 185/1000 for simple_10.wav
+2024-03-12 14:23:48,777:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/185.pcap
+2024-03-12 14:23:48,835:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,898:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:48,932:INFO:Processing 186/1000 for simple_10.wav
+2024-03-12 14:23:48,932:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/186.pcap
+2024-03-12 14:23:48,992:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,056:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,090:INFO:Processing 187/1000 for simple_10.wav
+2024-03-12 14:23:49,090:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/187.pcap
+2024-03-12 14:23:49,154:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,214:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,247:INFO:Processing 188/1000 for simple_10.wav
+2024-03-12 14:23:49,247:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/188.pcap
+2024-03-12 14:23:49,314:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,373:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,405:INFO:Processing 189/1000 for simple_10.wav
+2024-03-12 14:23:49,405:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/189.pcap
+2024-03-12 14:23:49,467:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,536:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,570:INFO:Processing 190/1000 for simple_10.wav
+2024-03-12 14:23:49,570:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/190.pcap
+2024-03-12 14:23:49,632:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,692:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,722:INFO:Processing 191/1000 for simple_10.wav
+2024-03-12 14:23:49,722:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/191.pcap
+2024-03-12 14:23:49,784:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,855:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:49,881:INFO:Processing 192/1000 for simple_10.wav
+2024-03-12 14:23:49,881:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/192.pcap
+2024-03-12 14:23:49,952:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,021:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,056:INFO:Processing 193/1000 for simple_10.wav
+2024-03-12 14:23:50,056:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/193.pcap
+2024-03-12 14:23:50,113:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,184:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,219:INFO:Processing 194/1000 for simple_10.wav
+2024-03-12 14:23:50,219:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/194.pcap
+2024-03-12 14:23:50,285:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,343:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,370:INFO:Processing 195/1000 for simple_10.wav
+2024-03-12 14:23:50,370:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/195.pcap
+2024-03-12 14:23:50,431:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,489:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,514:INFO:Processing 196/1000 for simple_10.wav
+2024-03-12 14:23:50,515:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/196.pcap
+2024-03-12 14:23:50,594:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,666:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,695:INFO:Processing 197/1000 for simple_10.wav
+2024-03-12 14:23:50,695:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/197.pcap
+2024-03-12 14:23:50,754:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,813:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,846:INFO:Processing 198/1000 for simple_10.wav
+2024-03-12 14:23:50,846:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/198.pcap
+2024-03-12 14:23:50,903:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:50,966:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:51,003:INFO:Processing 199/1000 for simple_10.wav
+2024-03-12 14:23:51,003:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/199.pcap
+2024-03-12 14:23:51,062:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:51,124:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:51,152:INFO:Processing 200/1000 for simple_10.wav
+2024-03-12 14:23:51,153:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/200.pcap
+2024-03-12 14:23:51,214:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:51,277:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:51,304:INFO:Processing 201/1000 for simple_10.wav
+2024-03-12 14:23:51,304:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/201.pcap
+2024-03-12 14:23:51,360:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:23:51,415:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:28:59,503:INFO:Starting main function
+2024-03-12 14:28:59,522:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:28:59,640:INFO:Authentication (password) successful!
+2024-03-12 14:28:59,734:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:28:59,734:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:28:59,808:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:28:59,852:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:29:54,374:INFO:Starting main function
+2024-03-12 14:29:54,393:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:29:54,498:INFO:Authentication (password) successful!
+2024-03-12 14:29:54,578:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:29:54,578:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:29:54,639:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:29:54,682:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:32:10,382:INFO:Starting main function
+2024-03-12 14:32:10,402:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:32:10,516:INFO:Authentication (password) successful!
+2024-03-12 14:32:10,597:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:32:10,597:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:32:10,657:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:32:10,699:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:32:33,555:INFO:Starting main function
+2024-03-12 14:32:33,575:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:32:33,683:INFO:Authentication (password) successful!
+2024-03-12 14:32:33,766:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:32:33,767:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:32:33,836:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:32:33,879:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:32:44,662:INFO:Starting main function
+2024-03-12 14:32:44,684:INFO:Connected (version 2.0, client dropbear)
+2024-03-12 14:32:44,789:INFO:Authentication (password) successful!
+2024-03-12 14:32:45,086:INFO:Processing 1/1000 for simple_10.wav
+2024-03-12 14:32:45,086:INFO:Starting network traffic capture. Captured data will be saved in: /opt/simple_50_win/simple_10/1.pcap
+2024-03-12 14:32:45,147:INFO:Absolute path to audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
+2024-03-12 14:32:45,191:INFO:Finished playing audio file: C:\Users\GXG\Research\voice_attack\raw_data\dilawer11\simple_50_alexa\audioPlay_A\simple_10.wav
