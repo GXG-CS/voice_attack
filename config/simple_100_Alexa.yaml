@@ -1,0 +1,301 @@
+subfolders:
+- subfolderName: simple_1
+  voiceCommand: set a timer for two minutes
+  EchoIP: 10.0.0.159
+- subfolderName: simple_2
+  voiceCommand: cancel all my timers
+  EchoIP: 10.0.0.159
+- subfolderName: simple_3
+  voiceCommand: add bananas to my shopping list
+  EchoIP: 10.0.0.159
+- subfolderName: simple_4
+  voiceCommand: remove bananas from my shopping list
+  EchoIP: 10.0.0.159
+- subfolderName: simple_5
+  voiceCommand: add milk to my shopping list
+  EchoIP: 10.0.0.159
+- subfolderName: simple_6
+  voiceCommand: remove milk from my shopping list
+  EchoIP: 10.0.0.199
+- subfolderName: simple_7
+  voiceCommand: what is on my to-do list
+  EchoIP: 10.0.0.159
+- subfolderName: simple_8
+  voiceCommand: set an alarm for 7 a.m.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_9
+  voiceCommand: cancel the alarm for 7 a.m.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_10
+  voiceCommand: find me a gynecologist
+  EchoIP: 10.0.0.159
+- subfolderName: simple_11
+  voiceCommand: where is the closest abortion clinic
+  EchoIP: 10.0.0.159
+- subfolderName: simple_12
+  voiceCommand: what is the domestic violence helpline
+  EchoIP: 10.0.0.159
+- subfolderName: simple_13
+  voiceCommand: where are the closest therapist?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_14
+  voiceCommand: how to deal with diabetes
+  EchoIP: 10.0.0.159
+- subfolderName: simple_15
+  voiceCommand: how many days until Christmas?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_16
+  voiceCommand: how many days until Thanksgiving?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_17
+  voiceCommand: where is the closest liquor store
+  EchoIP: 10.0.0.159
+- subfolderName: simple_18
+  voiceCommand: what to pack for a trip
+  EchoIP: 10.0.0.159
+- subfolderName: simple_19
+  voiceCommand: how to take care of plants while you are away
+  EchoIP: 10.0.0.159
+- subfolderName: simple_20
+  voiceCommand: how much does a plane ticket to Europe cost
+  EchoIP: 10.0.0.159
+- subfolderName: simple_21
+  voiceCommand: where can I buy a wedding ring?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_22
+  voiceCommand: how much is an ounce of Gold?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_23
+  voiceCommand: how to deal with anxiety?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_24
+  voiceCommand: how to feel less depressed?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_25
+  voiceCommand: what is the best headache medicine?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_26
+  voiceCommand: where is the closest sperm bank?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_27
+  voiceCommand: what are the good hotels in Las Vegas
+  EchoIP: 10.0.0.159
+- subfolderName: simple_28
+  voiceCommand: what are some flower shops nearby
+  EchoIP: 10.0.0.159
+- subfolderName: simple_29
+  voiceCommand: what are the most popular books this week
+  EchoIP: 10.0.0.159
+- subfolderName: simple_30
+  voiceCommand: what are the standings in the english premier league
+  EchoIP: 10.0.0.159
+- subfolderName: simple_31
+  voiceCommand: what happened in the midterm elections
+  EchoIP: 10.0.0.159
+- subfolderName: simple_32
+  voiceCommand: what is my traffic report
+  EchoIP: 10.0.0.159
+- subfolderName: simple_33
+  voiceCommand: what is the score of the Eagles game
+  EchoIP: 10.0.0.159
+- subfolderName: simple_34
+  voiceCommand: what is the score of Red Sox game
+  EchoIP: 10.0.0.159
+- subfolderName: simple_35
+  voiceCommand: what is the time in Singapore
+  EchoIP: 10.0.0.159
+- subfolderName: simple_36
+  voiceCommand: what is the weather for Sunday
+  EchoIP: 10.0.0.159
+- subfolderName: simple_37
+  voiceCommand: what is the weather
+  EchoIP: 10.0.0.159
+- subfolderName: simple_38
+  voiceCommand: what is trending
+  EchoIP: 10.0.0.159
+- subfolderName: simple_39
+  voiceCommand: what time is sunset today
+  EchoIP: 10.0.0.159
+- subfolderName: simple_40
+  voiceCommand: how to improve your credit score
+  EchoIP: 10.0.0.159
+- subfolderName: simple_41
+  voiceCommand: what is the best internet service provider in my area
+  EchoIP: 10.0.0.159
+- subfolderName: simple_42
+  voiceCommand: where is the closest car dealership to me?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_43
+  voiceCommand: what are good date spots around
+  EchoIP: 10.0.0.159
+- subfolderName: simple_44
+  voiceCommand: what are good restraunts nearby
+  EchoIP: 10.0.0.159
+- subfolderName: simple_45
+  voiceCommand: what movies are playing tonight
+  EchoIP: 10.0.0.159
+- subfolderName: simple_46
+  voiceCommand: when is the next F1 race
+  EchoIP: 10.0.0.159
+- subfolderName: simple_47
+  voiceCommand: when is boxing day
+  EchoIP: 10.0.0.159
+- subfolderName: simple_48
+  voiceCommand: when is hanukkah
+  EchoIP: 10.0.0.159
+- subfolderName: simple_49
+  voiceCommand: when is the NBA all star game
+  EchoIP: 10.0.0.159
+- subfolderName: simple_50
+  voiceCommand: who is playing monday night football
+  EchoIP: 10.0.0.159
+- subfolderName: simple_51
+  voiceCommand: who is second in the NBA western conference
+  EchoIP: 10.0.0.159
+- subfolderName: simple_52
+  voiceCommand: who is winning the world series
+  EchoIP: 10.0.0.159
+- subfolderName: simple_53
+  voiceCommand: what was the score of the real madrid game
+  EchoIP: 10.0.0.159
+- subfolderName: simple_54
+  voiceCommand: when is the next real madrid game
+  EchoIP: 10.0.0.159
+- subfolderName: simple_55
+  voiceCommand: what is the price of bitcoin
+  EchoIP: 10.0.0.159
+- subfolderName: simple_56
+  voiceCommand: how tall is the Empire State Building?
+  EchoIP: 10.0.0.199
+- subfolderName: simple_57
+  voiceCommand: is tomato a fruit or vegetable?
+  EchoIP: 10.0.0.199
+- subfolderName: simple_58
+  voiceCommand: pick a number
+  EchoIP: 10.0.0.159
+- subfolderName: simple_59
+  voiceCommand: surprise me
+  EchoIP: 10.0.0.159
+- subfolderName: simple_60
+  voiceCommand: talk like a pirate
+  EchoIP: 10.0.0.199
+- subfolderName: simple_61
+  voiceCommand: tell me a barbecue joke
+  EchoIP: 10.0.0.159
+- subfolderName: simple_62
+  voiceCommand: tell me a coffee joke
+  EchoIP: 10.0.0.159
+- subfolderName: simple_63
+  voiceCommand: tell me a fun fact
+  EchoIP: 10.0.0.199
+- subfolderName: simple_64
+  voiceCommand: tell me a halloween joke
+  EchoIP: 10.0.0.159
+- subfolderName: simple_65
+  voiceCommand: tell me a joke
+  EchoIP: 10.0.0.159
+- subfolderName: simple_66
+  voiceCommand: tell me a palindrome
+  EchoIP: 10.0.0.159
+- subfolderName: simple_67
+  voiceCommand: tell me a star wars joke
+  EchoIP: 10.0.0.159
+- subfolderName: simple_68
+  voiceCommand: tell me some good news
+  EchoIP: 10.0.0.159
+- subfolderName: simple_69
+  voiceCommand: tell me something weird
+  EchoIP: 10.0.0.159
+- subfolderName: simple_70
+  voiceCommand: translate good morning to spanish
+  EchoIP: 10.0.0.159
+- subfolderName: simple_71
+  voiceCommand: what are you thankful for
+  EchoIP: 10.0.0.159
+- subfolderName: simple_72
+  voiceCommand: what can you do
+  EchoIP: 10.0.0.159
+- subfolderName: simple_73
+  voiceCommand: what is brief mode
+  EchoIP: 10.0.0.159
+- subfolderName: simple_74
+  voiceCommand: what is gluten
+  EchoIP: 10.0.0.199
+- subfolderName: simple_75
+  voiceCommand: what is homecoming about
+  EchoIP: 10.0.0.199
+- subfolderName: simple_76
+  voiceCommand: what is my sports update
+  EchoIP: 10.0.0.199
+- subfolderName: simple_77
+  voiceCommand: what is on your mind
+  EchoIP: 10.0.0.199
+- subfolderName: simple_78
+  voiceCommand: what is Roblox
+  EchoIP: 10.0.0.199
+- subfolderName: simple_79
+  voiceCommand: what is the AFC north standings
+  EchoIP: 10.0.0.159
+- subfolderName: simple_80
+  voiceCommand: what is the best comedy movie
+  EchoIP: 10.0.0.159
+- subfolderName: simple_81
+  voiceCommand: what is the capital of spain
+  EchoIP: 10.0.0.159
+- subfolderName: simple_82
+  voiceCommand: what is the date tomorrow
+  EchoIP: 10.0.0.159
+- subfolderName: simple_83
+  voiceCommand: what is the fourth book in the narnia series
+  EchoIP: 10.0.0.159
+- subfolderName: simple_84
+  voiceCommand: what is history of labor day
+  EchoIP: 10.0.0.159
+- subfolderName: simple_85
+  voiceCommand: what is the longest word
+  EchoIP: 10.0.0.159
+- subfolderName: simple_86
+  voiceCommand: what is the number one song this week
+  EchoIP: 10.0.0.159
+- subfolderName: simple_87
+  voiceCommand: what is the scariest movie of all time
+  EchoIP: 10.0.0.159
+- subfolderName: simple_88
+  voiceCommand: what is your favorite hobby
+  EchoIP: 10.0.0.159
+- subfolderName: simple_89
+  voiceCommand: what is your favorite sport
+  EchoIP: 10.0.0.159
+- subfolderName: simple_90
+  voiceCommand: when does game of thrones return
+  EchoIP: 10.0.0.159
+- subfolderName: simple_91
+  voiceCommand: who is your favorite author
+  EchoIP: 10.0.0.159
+- subfolderName: simple_92
+  voiceCommand: who is your favorite poet
+  EchoIP: 10.0.0.159
+- subfolderName: simple_93
+  voiceCommand: who is your favorite superhero
+  EchoIP: 10.0.0.159
+- subfolderName: simple_94
+  voiceCommand: who scored for the Golden Knights
+  EchoIP: 10.0.0.159
+- subfolderName: simple_95
+  voiceCommand: who scored for Boston Red Sox
+  EchoIP: 10.0.0.159
+- subfolderName: simple_96
+  voiceCommand: will it rain tomorrow
+  EchoIP: 10.0.0.159
+- subfolderName: simple_97
+  voiceCommand: roll a die
+  EchoIP: 10.0.0.159
+- subfolderName: simple_98
+  voiceCommand: how many people are on earth
+  EchoIP: 10.0.0.159
+- subfolderName: simple_99
+  voiceCommand: give me a fun fact about sleep
+  EchoIP: 10.0.0.159
+- subfolderName: simple_100
+  voiceCommand: good morning
+  EchoIP: 10.0.0.159
