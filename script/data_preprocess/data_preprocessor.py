@@ -4,54 +4,99 @@ import argparse
 from concurrent.futures import ProcessPoolExecutor, as_completed
 import numpy as np
 from scipy.stats import skew, kurtosis, entropy
-from scipy.signal import find_peaks
+from scipy.signal import find_peaks, welch
 from numpy.fft import fft
 from scapy.all import rdpcap
 from glob import glob
+from decimal import Decimal
 
 def parse_pcap(file_path):
     packets = rdpcap(file_path)
     sizes = np.array([len(p) for p in packets]) if packets else np.array([])
     times = np.array([p.time for p in packets]) if packets else np.array([])
     inter_arrival_times = np.diff(times) if len(times) > 1 else np.array([])
-    return sizes, inter_arrival_times
+    return sizes, times, inter_arrival_times
 
-def calculate_features(sizes):
-    if sizes.size == 0:
-        return {
-            'mean': np.nan, 'std_dev': np.nan, 'variance': np.nan,
-            'max_value': np.nan, 'min_value': np.nan, 'range': np.nan,
-            'median': np.nan, 'mad': np.nan, 'skewness': np.nan, 'kurtosis': np.nan,
-            'entropy': np.nan
-        }
-    features = {
-        'mean': np.mean(sizes), 'std_dev': np.std(sizes), 'variance': np.var(sizes),
-        'max_value': np.max(sizes), 'min_value': np.min(sizes),
-        'range': np.max(sizes) - np.min(sizes), 'median': np.median(sizes),
-        'mad': np.mean(np.abs(sizes - np.mean(sizes))), 'skewness': skew(sizes),
-        'kurtosis': kurtosis(sizes), 'entropy': entropy(np.histogram(sizes, bins=10)[0])
+
+def calculate_features(sizes, times):
+    if sizes.size == 0 or times.size == 0:
+        return None  # Return None or an appropriate default value
+    
+    # Convert first and last elements of times to Decimal for high precision duration calculation
+    start_time = Decimal(str(times[0]))
+    end_time = Decimal(str(times[-1]))
+    duration = end_time - start_time
+
+    # Basic statistics converted to Decimal for precision where necessary
+    mean = Decimal(str(np.mean(sizes)))
+    std_dev = Decimal(str(np.std(sizes, ddof=1)))
+    variance = Decimal(str(np.var(sizes, ddof=1)))
+    max_value = Decimal(str(np.max(sizes)))
+    min_value = Decimal(str(np.min(sizes)))
+    range_value = max_value - min_value
+    median = Decimal(str(np.median(sizes)))
+    mad = Decimal(str(np.mean(np.abs(sizes - np.mean(sizes)))))
+    skewness = Decimal(str(skew(sizes)))
+    kurt = Decimal(str(kurtosis(sizes)))
+
+    # FFT-based features with Decimal
+    fft_vals = np.abs(fft(sizes))
+    fft_mean = Decimal(str(np.mean(fft_vals)))
+    fft_std_dev = Decimal(str(np.std(fft_vals)))
+
+    # Entropy calculation using Decimal
+    hist, _ = np.histogram(sizes, bins='auto')
+    data_entropy = Decimal(str(entropy(hist)))
+
+    # Peak-related features, ensuring num_peaks and mean_peak_height use Decimal where appropriate
+    peaks, properties = find_peaks(sizes)
+    num_peaks = len(peaks)
+    # mean_peak_height = Decimal(str(np.mean(properties['peak_heights']))) if num_peaks > 0 else Decimal(0)
+    # if num_peaks > 0 and 'peak_heights' in properties:
+    #     mean_peak_height = Decimal(str(np.mean(properties['peak_heights'])))
+    # else:
+    #     mean_peak_height = Decimal(0)
+
+    # # Time difference features using Decimal
+    # time_diffs = np.diff(times)
+    # mean_time_diff = Decimal(str(np.mean(time_diffs))) if len(time_diffs) > 0 else Decimal(0)
+    # std_time_diff = Decimal(str(np.std(time_diffs))) if len(time_diffs) > 0 else Decimal(0)
+
+    # Return the feature dictionary with all values as Decimal for high precision
+    return {
+        'mean': mean,
+        'std_dev': std_dev,
+        'variance': variance,
+        'max_value': max_value,
+        'min_value': min_value,
+        'range': range_value,
+        'median': median,
+        'mean_absolute_deviation': mad,
+        'skewness': skewness,
+        'kurtosis': kurt,
+        'duration': duration, 
+        'fft_mean': fft_mean,
+        'fft_std_dev': fft_std_dev,
+        'entropy': data_entropy,
+        'num_peaks': num_peaks,
+        # 'mean_peak_height': mean_peak_height,
+        # 'mean_time_diff': mean_time_diff,
+        # 'std_time_diff': std_time_diff,
     }
-    return features
-
-
-
-def parse_pcap(file_path):
-    packets = rdpcap(file_path)
-    sizes = np.array([len(p) for p in packets]) if packets else np.array([])
-    return sizes
-
 
 
 def extract_features_from_pcap(file_path):
-    sizes = parse_pcap(file_path)  # Updated to receive a single value.
-    return calculate_features(sizes)
-
+    sizes, times, _ = parse_pcap(file_path)
+    return calculate_features(sizes, times)
 
 def process_file(file_path):
+    print(f"Processing file: {file_path}")
     features, error = extract_features_from_pcap(file_path), None
     return features, error
 
+
 def process_folder(folder_path, label, executor):
+    print(f"Processing folder: {folder_path}, Label: {label}")
     features_list = []
     file_paths = sorted(glob(os.path.join(folder_path, f'simple_{label}', '*.pcap')))
     futures = [executor.submit(process_file, file_path) for file_path in file_paths]
@@ -62,11 +107,18 @@ def process_folder(folder_path, label, executor):
     return features_list
 
 def get_labels(folder_path):
+    print(f"Getting labels from folder: {folder_path}")
     subfolders = [name for name in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, name))]
     labels = [subfolder.split('_')[-1] for subfolder in subfolders]
-    return sorted(set(labels), key=int)
+    labels = sorted(set(labels), key=int)
+    print(f"Found labels: {labels}")
+    return labels
 
 def write_features_to_csv(combined_features, csv_file_path):
+    print(f"Writing features to CSV: {csv_file_path}")
+    if not combined_features:
+        print("No combined features to write.")
+        return
     with open(csv_file_path, 'w', newline='') as file:
         fieldnames = ['label'] + [f'{feat}_incoming' for feat in combined_features[0][1]] + [f'{feat}_outgoing' for feat in combined_features[0][1]]
         writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -76,13 +128,15 @@ def write_features_to_csv(combined_features, csv_file_path):
             row.update({f'{k}_incoming': v for k, v in inc_features.items()})
             row.update({f'{k}_outgoing': v for k, v in out_features.items()})
             writer.writerow(row)
+    print("CSV writing complete.")
 
 def main(incoming_folder, outgoing_folder, csv_file_path):
-    labels = get_labels(incoming_folder)  # Assuming outgoing_folder has matching labels
+    labels = get_labels(incoming_folder)
     combined_features = []
 
     with ProcessPoolExecutor() as executor:
         for label in labels:
+            print(f"Processing label: {label}")
             incoming_features = process_folder(incoming_folder, label, executor)
             outgoing_features = process_folder(outgoing_folder, label, executor)
             for inc_features, out_features in zip(incoming_features, outgoing_features):
@@ -100,6 +154,9 @@ if __name__ == "__main__":
     main(args.incoming_folder, args.outgoing_folder, args.csv_file_path)
 
 
+
 # python data_preprocessor.py --incoming_folder ../../data_processed/WiSec_unmonitored_trimmed_5_incoming --outgoing_folder ../../data_processed/WiSec_unmonitored_trimmed_5_outgoing --csv_file_path ../../data_processed/WiSec_unmonitored_trimmed_5_features.csv
     
 # python data_preprocessor.py --incoming_folder ../../data_processed/Wi_incoming --outgoing_folder ../../data_processed/Wi_outgoing --csv_file_path ../../data_processed/Wi.csv
+
+# python data_preprocessor.py --incoming_folder ../../data_processed/test/traffic_W_incoming --outgoing_folder ../../data_processed/test/traffic_W_outgoing --csv_file_path ../../data_processed/test/traffic_W.csv
