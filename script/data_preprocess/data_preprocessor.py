@@ -20,14 +20,12 @@ def parse_pcap(file_path):
 
 def calculate_features(sizes, times):
     if sizes.size == 0 or times.size == 0:
-        return None  # Return None or an appropriate default value
+        return None
     
-    # Convert first and last elements of times to Decimal for high precision duration calculation
     start_time = Decimal(str(times[0]))
     end_time = Decimal(str(times[-1]))
     duration = end_time - start_time
 
-    # Basic statistics converted to Decimal for precision where necessary
     mean = Decimal(str(np.mean(sizes)))
     std_dev = Decimal(str(np.std(sizes, ddof=1)))
     variance = Decimal(str(np.var(sizes, ddof=1)))
@@ -39,30 +37,30 @@ def calculate_features(sizes, times):
     skewness = Decimal(str(skew(sizes)))
     kurt = Decimal(str(kurtosis(sizes)))
 
-    # FFT-based features with Decimal
     fft_vals = np.abs(fft(sizes))
     fft_mean = Decimal(str(np.mean(fft_vals)))
     fft_std_dev = Decimal(str(np.std(fft_vals)))
 
-    # Entropy calculation using Decimal
     hist, _ = np.histogram(sizes, bins='auto')
     data_entropy = Decimal(str(entropy(hist)))
 
-    # Peak-related features, ensuring num_peaks and mean_peak_height use Decimal where appropriate
     peaks, properties = find_peaks(sizes)
     num_peaks = len(peaks)
-    # mean_peak_height = Decimal(str(np.mean(properties['peak_heights']))) if num_peaks > 0 else Decimal(0)
-    # if num_peaks > 0 and 'peak_heights' in properties:
-    #     mean_peak_height = Decimal(str(np.mean(properties['peak_heights'])))
-    # else:
-    #     mean_peak_height = Decimal(0)
 
-    # # Time difference features using Decimal
-    # time_diffs = np.diff(times)
-    # mean_time_diff = Decimal(str(np.mean(time_diffs))) if len(time_diffs) > 0 else Decimal(0)
-    # std_time_diff = Decimal(str(np.std(time_diffs))) if len(time_diffs) > 0 else Decimal(0)
+    rms = Decimal(str(np.sqrt(np.mean(np.square(sizes)))))
+    sma = Decimal(str(np.mean(np.abs(sizes))))
+    
+    if len(sizes) > 1:
+        autocorr_lag_1 = Decimal(str(np.corrcoef(sizes[:-1], sizes[1:])[0, 1]))
+    else:
+        autocorr_lag_1 = Decimal(0)
+    
+    crest_factor = Decimal(str(np.max(np.abs(sizes)) / rms))
+    zero_crossing_indices = np.where(np.diff(np.signbit(sizes)))[0]
+    zero_crossing_rate = Decimal(str(len(zero_crossing_indices) / float(sizes.size)))
+    
+    spectral_centroid = Decimal(str(np.dot(np.arange(len(fft_vals)), fft_vals) / np.sum(fft_vals) if np.sum(fft_vals) > 0 else 0))
 
-    # Return the feature dictionary with all values as Decimal for high precision
     return {
         'mean': mean,
         'std_dev': std_dev,
@@ -79,9 +77,12 @@ def calculate_features(sizes, times):
         'fft_std_dev': fft_std_dev,
         'entropy': data_entropy,
         'num_peaks': num_peaks,
-        # 'mean_peak_height': mean_peak_height,
-        # 'mean_time_diff': mean_time_diff,
-        # 'std_time_diff': std_time_diff,
+        'rms': rms,
+        'sma': sma,
+        'autocorrelation_lag_1': autocorr_lag_1,
+        'crest_factor': crest_factor,
+        'zero_crossing_rate': zero_crossing_rate,
+        'spectral_centroid': spectral_centroid,
     }
 
 
