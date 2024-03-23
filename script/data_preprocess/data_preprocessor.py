@@ -61,6 +61,23 @@ def calculate_features(sizes, times):
     
     spectral_centroid = Decimal(str(np.dot(np.arange(len(fft_vals)), fft_vals) / np.sum(fft_vals) if np.sum(fft_vals) > 0 else 0))
 
+    power_spectrum, freqs = welch(sizes, nperseg=1024)
+    spectral_entropy = Decimal(str(entropy(power_spectrum)))
+    energy = np.sum(np.square(sizes))
+    prob_density = np.square(sizes) / energy
+    entropy_of_energy = Decimal(str(entropy(prob_density)))
+    
+    spectral_centroid_value = float(spectral_centroid)
+    spectral_rolloff_threshold = 0.85 * np.sum(power_spectrum)
+    spectral_rolloff = Decimal(str(freqs[np.where(np.cumsum(power_spectrum) >= spectral_rolloff_threshold)[0][0]]))
+    
+    spectral_flux = Decimal(str(np.sqrt(np.mean(np.diff(power_spectrum) ** 2))))
+    harmonic_signal = np.abs(np.fft.ifft(np.abs(np.fft.fft(sizes))))
+    thd = Decimal(str(np.sqrt(np.mean((sizes - harmonic_signal) ** 2)) / np.sqrt(np.mean(harmonic_signal ** 2))))
+
+    snr = Decimal(str(10 * np.log10(np.mean(np.square(sizes)) / np.mean(np.square(sizes - np.mean(sizes))))))
+    
+
     return {
         'mean': mean,
         'std_dev': std_dev,
@@ -83,6 +100,12 @@ def calculate_features(sizes, times):
         'crest_factor': crest_factor,
         'zero_crossing_rate': zero_crossing_rate,
         'spectral_centroid': spectral_centroid,
+        'spectral_entropy': spectral_entropy,
+        'entropy_of_energy': entropy_of_energy,
+        'spectral_rolloff': spectral_rolloff,
+        'spectral_flux': spectral_flux,
+        'thd': thd,
+        'snr': snr,
     }
 
 
