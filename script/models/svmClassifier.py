@@ -1,45 +1,42 @@
 import pandas as pd
+import numpy as np
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, classification_report
 from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.impute import SimpleImputer 
-from sklearn.svm import SVC  # Support Vector Classifier
+from sklearn.impute import SimpleImputer
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score, classification_report
 
-# Load your dataset
-data_path = '../features_extraction/combined_incoming_outgoing.csv'
+# Load the dataset
+data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
 data = pd.read_csv(data_path)
 
-# Prepare the features and target
-X = data.drop('label', axis=1)  # Assuming 'label' is your target column
-y = data['label']
+# Replace infinities with NaN
+data.replace([np.inf, -np.inf], np.nan, inplace=True)
 
-# Encode the target variable to ensure class labels are appropriate for SVM
-label_encoder = LabelEncoder()
-y_encoded = label_encoder.fit_transform(y)
+# Optional: Check for and handle very large values here, if applicable
 
-# Split the dataset into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y_encoded, test_size=0.2, random_state=42)
-
-# Handle missing values
+# Drop rows with NaN values or impute
 imputer = SimpleImputer(strategy='mean')
-X_train_imputed = imputer.fit_transform(X_train)
-X_test_imputed = imputer.transform(X_test)
+data_imputed = imputer.fit_transform(data.drop('label', axis=1))
+data_imputed = pd.DataFrame(data_imputed, columns=data.drop('label', axis=1).columns)
 
-# Scale features - very important for SVM
+# Encode the target variable
+label_encoder = LabelEncoder()
+y_encoded = label_encoder.fit_transform(data['label'])
+
+# Split the dataset
+X_train, X_test, y_train, y_test = train_test_split(data_imputed, y_encoded, test_size=0.2, random_state=42)
+
+# Scale the features
 scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train_imputed)
-X_test_scaled = scaler.transform(X_test_imputed)
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
 
-# Initialize SVM classifier
-model = SVC(kernel='rbf', C=1, gamma='auto')  # Example: using RBF kernel
-
-# Train the model
+# Initialize and train the SVM classifier
+model = SVC(kernel='rbf', C=1, gamma='auto')
 model.fit(X_train_scaled, y_train)
 
-# Make predictions
+# Predict and evaluate
 y_pred = model.predict(X_test_scaled)
-
-# Evaluate the model
 print("Accuracy:", accuracy_score(y_test, y_pred))
-print("Classification Report:")
-print(classification_report(y_test, y_pred))
+print("Classification Report:\n", classification_report(y_test, y_pred))
