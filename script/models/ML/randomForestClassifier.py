@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.preprocessing import StandardScaler
 
 # Load the data
-data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_removeOutliers_features_filter.csv'
 data = pd.read_csv(data_path)
 
 # Check and handle infinite values and very large values
@@ -14,8 +14,8 @@ data.replace([np.inf, -np.inf], np.nan, inplace=True)  # Replace infinities with
 data.dropna(inplace=True)  # Drop rows with NaN values, which now includes former infinities
 
 # Identify labels to remove (hypothetical example labels)
-low_acc_labels = [5, 8, 12, 14, 16, 17, 20, 34, 4, 7, 10, 15, 21, 26, 30, 35, 36, 50, 96, 97, 100, 6, 10, 15, 19, 21, 25, 28, 30, 31, 32, 35, 36]
-
+low_acc_labels = [5, 8, 12, 14, 16, 17, 20, 34, 4, 7, 10, 15, 21, 26, 30, 35, 36, 50, 96, 97, 100, 6, 10, 15, 19, 21, 25, 28, 30, 31, 32, 35, 36, 56, 82]
+# low_acc_labels = []
 # Filter out rows with low accuracy labels
 data_filtered = data[~data['label'].isin(low_acc_labels)]
 

@@ -8,7 +8,8 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.utils import to_categorical
 
 # Load dataset
-data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+# data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_removeOutliers_features.csv'
 data = pd.read_csv(data_path)
 
 # Replace infinite values with NaNs and drop them

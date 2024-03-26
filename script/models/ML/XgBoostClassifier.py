@@ -9,11 +9,22 @@ import xgboost as xgb
 import numpy as np
 
 # Load your dataset
-data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+# data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_removeOutliers_features.csv'
 data = pd.read_csv(data_path)
+
+
+# # Identify labels to remove (hypothetical example labels)
+# low_acc_labels = [5, 8, 12, 14, 16, 17, 20, 34, 4, 7, 10, 15, 21, 26, 30, 35, 36, 50, 96, 97, 100, 6, 10, 15, 19, 21, 25, 28, 30, 31, 32, 35, 36]
+
+# # Filter out rows with low accuracy labels
+# data_filtered = data[~data['label'].isin(low_acc_labels)]
+
 
 # Handle infinities by replacing them with NaNs
 data.replace([np.inf, -np.inf], np.nan, inplace=True)
+
+
 
 # Prepare the features and target
 X = data.drop('label', axis=1)

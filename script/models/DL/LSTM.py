@@ -8,12 +8,20 @@ from tensorflow.keras.optimizers import Adam
 import numpy as np
 
 # Load dataset
-data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+# data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_removeOutliers_features.csv'
 data = pd.read_csv(data_path)
 
 # Handle infinite values
 data.replace([np.inf, -np.inf], np.nan, inplace=True)
 data.dropna(inplace=True)
+
+# # Identify labels to remove (hypothetical example labels)
+# low_acc_labels = [5, 8, 12, 14, 16, 17, 20, 34, 4, 7, 10, 15, 21, 26, 30, 35, 36, 50, 96, 97, 100, 6, 10, 15, 19, 21, 25, 28, 30, 31, 32, 35, 36]
+
+# # Filter out rows with low accuracy labels
+# data_filtered = data[~data['label'].isin(low_acc_labels)]
+
 
 # Separate features and label
 X = data.drop('label', axis=1).values
@@ -37,7 +45,7 @@ X_train, X_test, y_train, y_test = train_test_split(X_reshaped, y_categorical, t
 
 # Define an adjusted LSTM model
 model = Sequential()
-model.add(LSTM(256, return_sequences=True, input_shape=(1, X_train.shape[2])))  # Increased units
+model.add(LSTM(128, return_sequences=True, input_shape=(1, X_train.shape[2])))  # Increased units
 model.add(Dropout(0.2))  # Dropout for regularization
 model.add(LSTM(64))  # Additional LSTM layer
 model.add(Dropout(0.2))  # Additional dropout layer
