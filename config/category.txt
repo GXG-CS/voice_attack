@@ -1,0 +1,152 @@
+Alexa, add bananas to my shopping list.
+Alexa, remove bananas from my shopping list.
+Alexa, add milk to my shopping list.
+Alexa, remove milk from my shopping list.
+Alexa, add eggs to my shopping list.
+Alexa, remove eggs from my shopping list.
+Alexa, what is on my to-do list?
+Alexa, add 'call mom' to my to-do list.
+Alexa, remove 'call mom' from my to-do list.
+Alexa, add 'buy groceries' to my to-do list.
+Alexa, remove 'buy groceries' from my to-do list.
+Alexa, add 'schedule appointment' to my to-do list.
+Alexa, remove 'schedule appointment' from my to-do list.
+Alexa, cancel all my timers.
+Alexa, set an alarm for 7 a.m.
+Alexa, cancel the alarm for 7 a.m.
+Alexa, set a reminder for 3 p.m.
+Alexa, cancel the reminder for 3 p.m.
+Alexa, add a dentist appointment to my calendar for March 25th at 10 AM.
+Alexa, remind me to call Mom tomorrow at noon.
+Alexa, what's on my schedule for next Friday?
+Alexa, set a reminder for my meeting with John on April 5th.
+Alexa, show me my reminders for this weekend.
+Alexa, add a lunch meeting with Sarah to my calendar for next Monday.
+Alexa, remind me to pay the water bill on the last day of every month.
+Alexa, what appointments do I have on Wednesday?
+Alexa, set a reminder to pick up dry cleaning on Friday at 5 PM.
+Alexa, show me my calendar for next week.
+Alexa, add a doctor's appointment to my calendar for next Tuesday at 2 PM.
+Alexa, how far away is the moon?
+Alexa, how hot is the sun?
+Alexa, how deep is the Indian Ocean?
+Alexa, how many ounces in a pound?
+Alexa, how many teaspoons are in a tablespoon?
+Alexa, how much does an elephant weigh?
+Alexa, how much is an ounce of gold?
+Alexa, how tall is Steph Curry?
+Alexa, how tall is the Empire State Building?
+Alexa, is a tomato a fruit or a vegetable?
+Alexa, how many days until Christmas?
+Alexa, how many days until Thanksgiving?
+Alexa, how many days are in September?
+Alexa, what is the date tomorrow?
+Alexa, how many days in a year?
+Alexa, how many seconds are in a year?
+Alexa, what is the time in Singapore?
+Alexa, when is Boxing Day?
+Alexa, when is the next full moon?
+Alexa, what time is it?
+Alexa, what is the price of bitcoin?
+Alexa, what is the price of gold?
+Alexa, what is the price of silver?
+Alexa, what is the price of oil?
+Alexa, what is the price of Tesla stock?
+Alexa, what is the price of Apple stock?
+Alexa, what is the price of Amazon stock?
+Alexa, what is the price of Google stock?
+Alexa, what is the price of Facebook stock?
+Alexa, will it rain tomorrow?
+Alexa, what is the weather for Sunday?
+Alexa, what is the weather?
+Alexa, what is the weather today?
+Alexa, will it rain tomorrow in Golden, Colorado?
+Alexa, what's the weather going to be like this weekend?
+Alexa, will there be a thunderstorm this week?
+Alexa, what's the weather like in New York City?
+Alexa, what's the weather like in San Francisco?
+Alexa, what's the wind speed right now?
+Alexa, what's the humidity right now?
+Alexa, what's the UV index right now?
+Alexa, is it going to snow today?
+Alexa, is it going to be sunny tomorrow?
+Alexa, is it going to be cloudy this week?
+Alexa, flip a coin.
+Alexa, roll a dice.
+Alexa, give me a fun fact about sleep.
+Alexa, give me a dinosaur fact.
+Alexa, tell me a barbecue joke.
+Alexa, tell me a joke.
+Alexa, tell me a fun fact.
+Alexa, tell me something weird.
+Alexa, tell me today's fun fact.
+Alexa, how many cups in a quart?
+Alexa, how many cups in a gallon?
+Alexa, how many cups in a pint?
+Alexa, how many cups in a liter?
+Alexa, how many cups in a pound?
+Alexa, how do I make a classic margherita pizza?
+Alexa, how do I make a chocolate cake?
+Alexa, how do I make a grilled cheese sandwich?
+Alexa, how do I make a smoothie?
+Alexa, how do I make a salad?
+Alexa, how do I make a classic French onion soup?
+Alexa, what's the best way to fry an egg?
+Alexa, where is the closest abortion clinic?
+Alexa, where are the closest therapists?
+Alexa, where is the closest liquor store?
+Alexa, where's the nearest vegan restaurant?
+Alexa, where's the nearest gas station?
+Alexa, where's the nearest hospital?
+Alexa, where's the nearest pharmacy?
+Alexa, where's the nearest grocery store?
+Alexa, where's the nearest coffee shop?
+Alexa, find the top-rated coffee shops near me.
+Alexa, what's the best Italian restaurant nearby?
+Alexa, find the closest electric vehicle charging station.
+Alexa, find a nearby yoga studio.
+Alexa, translate good morning to Spanish.
+Alexa, translate 'good morning' to French.
+Alexa, how do you say 'thank you' in Japanese?
+Alexa, how do you say 'hello' in Italian?
+Alexa, translate 'How much does this cost?' to Russian.
+Alexa, translate 'Where is the nearest hotel?' to German.
+Alexa, what is 'Help me' in Arabic?
+Alexa, translate 'I need a doctor' to Chinese.
+Alexa, how do you say 'I love you' in Korean?
+Alexa, translate 'What time is it?' to Spanish.
+Alexa, translate 'Where is the bathroom?' to French.
+Alexa, give me the NFL schedule for this Sunday.
+Alexa, who is leading in the Formula 1 championship?
+Alexa, when do the New York Yankees play next?
+Alexa, what time does the Manchester United game start?
+Alexa, how do you spell appreciate?
+Alexa, how do you spell beautiful?
+Alexa, how do you spell definitely?
+Alexa, how do you spell entrepreneur?
+Alexa, how do you spell favorite?
+Alexa, how to spell government?
+Alexa, how to spell happiness?
+Alexa, how to spell independent?
+Alexa, what to pack for a trip?
+Alexa, what is the best time to book a flight?
+Alexa, what is the best time to book a hotel?
+Alexa, what is the best time to book a vacation?
+Alexa, show me things to do in Rome.
+Alexa, what are the visa requirements for India?
+Alexa, pack list for a beach vacation.
+Alexa, I am feeling sad.
+Alexa, I am feeling anxious.
+Alexa, I am feeling depressed.
+Alexa, how can I manage anxiety at home?
+Alexa, show me relaxation techniques.
+Alexa, how can I improve my mental health?
+Alexa, how can I reduce stress?
+Alexa, how can I practice mindfulness?
+Alexa, what's the traffic like on my way to work?
+Alexa, update me on road closures.
+Alexa, is there a traffic jam on the interstate?
+Alexa, what is the history of Labor Day?
+Alexa, what is the history of Thanksgiving?
+Alexa, what is the history of Christmas?
+Alexa, what is the history of Halloween?
