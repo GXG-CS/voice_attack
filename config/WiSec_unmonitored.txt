@@ -1,0 +1,100 @@
+Alexa, Are you skynet?
+Alexa, Beatbox for me
+Alexa, Can you auto-tune?
+Alexa, Can you do an impression?
+Alexa, Can you rap?
+Alexa, Convert one pound to ounces
+Alexa, Define lexicon
+Alexa, Do the hokey pokey?
+Alexa, Drum roll please
+Alexa, Give me a blooper
+Alexa, Give me a palindrome
+Alexa, Give me a patriots burn.
+Alexa, Give me a prank
+Alexa, Give me a shark limerick
+Alexa, Give me some bad poetry.
+Alexa, How are you?
+Alexa, How did Dow Jones do today?
+Alexa, How do I keep my family in sync?
+Alexa, How do I play music everywhere?
+Alexa, How do I say happy birthday in Korean?
+Alexa, How do you say happy birthday in Chinese?
+Alexa, How does the intercom work?
+Alexa, How many calories are in a donut?
+Alexa, How many gallons of water are in the Atlantic Ocean?
+Alexa, How many hits did Derek Jeter have in 2012?
+Alexa, How many people live in China?
+Alexa, How many people live in New York?
+Alexa, How many rushing yards did Emmitt Smith have in his career?
+Alexa, How many times has Duke been to the Final Four?
+Alexa, How much does a Lamborghini cost?
+Alexa, How old is Queen Elizabeth?
+Alexa, Is a hot dog a sandwich?
+Alexa, Make animal noises
+Alexa, Pretend to be a supervillain
+Alexa, Rap about the cloud
+Alexa, Recite a haiku
+Alexa, Release the Kraken
+Alexa, Roll the dice
+Alexa, Sing a song for the 4th of July
+Alexa, Star Wars or Star Trek
+Alexa, Tell me a baseball story
+Alexa, Tell me a basketball joke
+Alexa, Tell me a giraffe fact
+Alexa, Tell me a joke about you
+Alexa, Tell me a pun
+Alexa, Tell me a shark joke
+Alexa, Tell me a tongue twister
+Alexa, What are some good Halloween movies to watch?
+Alexa, What are the best books of the year so far?
+Alexa, What are the rarest skins in Fortnite?
+Alexa, What are you reading?
+Alexa, What can I do with more than one Echo device?
+Alexa, What is 90 degrees Fahrenheit in Celsius?
+Alexa, What is Carrie Underwood's net worth?
+Alexa, What is pi?
+Alexa, What is the dollar to euro exchange rate?
+Alexa, What is Don't Worry, He Won't Get Far on Foot movie about?
+Alexa, What is the next book by Rachel Hollis?
+Alexa, What is the stock price of General Motors?
+Alexa, What is the tallest animal?
+Alexa, What is the tallest mountain?
+Alexa, What is the upcoming book by Neil Gaiman?
+Alexa, What languages can you translate?
+Alexa, What should I be for Halloween?
+Alexa, What time are the Emmys?
+Alexa, What time does L.A. Fitness close?
+Alexa, What time is Big Brother on TV?
+Alexa, What is the birthday roundup?
+Alexa, What is the most popular TV show?
+Alexa, What is the net worth of Jennifer Lawrence?
+Alexa, What is your favorite word?
+Alexa, When do I have to register to vote?
+Alexa, When does Avengers: Endgame release in theaters?
+Alexa, When does fall begin?
+Alexa, When does the new season of The Walking Dead premiere?
+Alexa, When does Wimbledon start?
+Alexa, When is April Fools Day?
+Alexa, When is Shark Week?
+Alexa, When is the autumn equinox?
+Alexa, When is the next lunar eclipse?
+Alexa, When is the Patriots' first game?
+Alexa, When is the Tour de France?
+Alexa, When was McDonald's founded?
+Alexa, Where is the MLB All-Star game being played?
+Alexa, Who does Alabama play in their first game?
+Alexa, Who inspires you?
+Alexa, Who invented GPS?
+Alexa, Who is leading the Players Championship?
+Alexa, Who is Peppa Pig?
+Alexa, Who is Rainbow Dash?
+Alexa, Who is running for Senate in California?
+Alexa, Who is your favorite baseball player?
+Alexa, Who is your favorite Pokémon?
+Alexa, Who leads the WNBA in scoring?
+Alexa, Who signed the Declaration of Independence?
+Alexa, Who stars in Gringo?
+Alexa, Who won the Winter Classic?
+Alexa, Who is going to win the Final Four?
+Alexa, Who is hosting Saturday Night Live this weekend?
+Alexa, Who is your favorite college basketball team?

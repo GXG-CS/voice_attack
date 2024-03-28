@@ -1,0 +1,307 @@
+subfolders:
+- subfolderName: simple_1
+  voiceCommand: Announce Happy Valentines Day.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_2
+  voiceCommand: Do dogs dream?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_3
+  voiceCommand: Do you like cats or dogs?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_4
+  voiceCommand: Flip a coin.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_5
+  voiceCommand: Give me a dinosaur fact.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_6
+  voiceCommand: Give me a fun fact about sleep.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_7
+  voiceCommand: Give me a patriots burn.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_8
+  voiceCommand: Good Morning.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_9
+  voiceCommand: Help
+  EchoIP: 10.0.0.159
+- subfolderName: simple_10
+  voiceCommand: How deep is the Indian Ocean?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_11
+  voiceCommand: how do you spell appreciate?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_12
+  voiceCommand: How far away is the moon?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_13
+  voiceCommand: How hot is the sun?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_14
+  voiceCommand: how many days are in September?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_15
+  voiceCommand: How many days in a year?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_16
+  voiceCommand: How many days until christmas?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_17
+  voiceCommand: How many days until Thanksgiving?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_18
+  voiceCommand: How many fantasy points does LeBron James have?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_19
+  voiceCommand: How many ounces in a pound?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_20
+  voiceCommand: how many seconds are in a year?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_21
+  voiceCommand: how many teaspoons are in a tablespoon?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_22
+  voiceCommand: How much does an elephant weigh?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_23
+  voiceCommand: How much is an ounce of gold?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_24
+  voiceCommand: How old are you?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_25
+  voiceCommand: How old is Henry Winkler?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_26
+  voiceCommand: how old is Serena Williams?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_27
+  voiceCommand: how tall is Steph Curry?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_28
+  voiceCommand: how tall is the Empire State Building?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_29
+  voiceCommand: how tall is The Rock?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_30
+  voiceCommand: Is a tomato a fruit or a vegetable?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_31
+  voiceCommand: Pick a number?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_32
+  voiceCommand: Surprise me.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_33
+  voiceCommand: Talk like a pirate.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_34
+  voiceCommand: Tell me a barbecue joke.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_35
+  voiceCommand: Tell me a coffee joke.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_36
+  voiceCommand: Tell me a fun fact.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_37
+  voiceCommand: Tell me a Halloween hack.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_38
+  voiceCommand: Tell me a joke.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_39
+  voiceCommand: Tell me a palindrome.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_40
+  voiceCommand: Tell me a Star Wars joke.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_41
+  voiceCommand: Tell me some good news.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_42
+  voiceCommand: Tell me something weird.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_43
+  voiceCommand: Translate good morning to Spanish.
+  EchoIP: 10.0.0.159
+- subfolderName: simple_44
+  voiceCommand: What are some flower shops nearby?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_45
+  voiceCommand: What are the most popular books this week?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_46
+  voiceCommand: What are the standings in the English Premier League?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_47
+  voiceCommand: What are you thankful for?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_48
+  voiceCommand: What can you do?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_49
+  voiceCommand: What happened in the midterm elections?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_50
+  voiceCommand: What is brief mode?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_51
+  voiceCommand: What is gluten?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_52
+  voiceCommand: What is Homecoming about?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_53
+  voiceCommand: What is my sports update?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_54
+  voiceCommand: What is my traffic report?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_55
+  voiceCommand: What is on your mind?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_56
+  voiceCommand: What is Roblox?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_57
+  voiceCommand: What is the AFC North Standings?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_58
+  voiceCommand: What is the best comedy movie?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_59
+  voiceCommand: What is the capital of Spain?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_60
+  voiceCommand: What is the date tomorrow?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_61
+  voiceCommand: What is the fourth book in the Narnia series?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_62
+  voiceCommand: What is the history of Labor Day?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_63
+  voiceCommand: What is the longest word?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_64
+  voiceCommand: What is the number one song this week?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_65
+  voiceCommand: What is the price of bitcoin?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_66
+  voiceCommand: What is the scariest movie of all time?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_67
+  voiceCommand: What is the score of the Eagles game?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_68
+  voiceCommand: What is the score of the Red Sox game?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_69
+  voiceCommand: What is the time in Singapore?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_70
+  voiceCommand: What is the weather for Sunday?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_71
+  voiceCommand: What is the weather?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_72
+  voiceCommand: What is trending?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_73
+  voiceCommand: What is your favorite flower?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_74
+  voiceCommand: What is your favorite game?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_75
+  voiceCommand: What is your favorite hobby?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_76
+  voiceCommand: What is your favorite sport?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_77
+  voiceCommand: What is your mission?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_78
+  voiceCommand: What is zero divided by zero?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_79
+  voiceCommand: What movies are playing?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_80
+  voiceCommand: What were yesterdays scores?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_81
+  voiceCommand: When does daylight saving time end?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_82
+  voiceCommand: When does Game of Thrones return?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_83
+  voiceCommand: When is Easter?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_84
+  voiceCommand: When is Boxing Day?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_85
+  voiceCommand: When is Hanukkah?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_86
+  voiceCommand: When is the NBA all star game?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_87
+  voiceCommand: When is the next full moon?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_88
+  voiceCommand: Where did Yoda live?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_89
+  voiceCommand: Where is Mount Rushmore?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_90
+  voiceCommand: Who do you love?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_91
+  voiceCommand: Who is in Mastodon?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_92
+  voiceCommand: Who is nominated for best actor?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_93
+  voiceCommand: Who is playing Monday Night Football?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_94
+  voiceCommand: Who is second in the NBA Western Conference?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_95
+  voiceCommand: Who is winning the World Series?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_96
+  voiceCommand: Who is your favorite author?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_97
+  voiceCommand: Who is your favorite poet?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_98
+  voiceCommand: Who is your favorite superhero?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_99
+  voiceCommand: Who scored for the Golden Knights?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_100
+  voiceCommand: Why do leaves change color in the fall?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_101
+  voiceCommand: Will it rain tomorrow?
+  EchoIP: 10.0.0.159
+- subfolderName: simple_102
+  voiceCommand: What time is it?
+  EchoIP: 10.0.0.159
