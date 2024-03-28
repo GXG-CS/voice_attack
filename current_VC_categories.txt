@@ -1,0 +1,191 @@
+1 Shopping Lists & Orders
+    1_1 add bananas to my shopping list
+    1_2 add milk to my shopping list
+    1_3 remove milk from my shopping list
+
+
+2 Task & To-Do Lists
+
+3 Timer & Alarms
+    3_1 cancel all my timers
+
+
+
+
+4 Questions & General Information
+    4_1 tell me about the Statue of Liberty.
+    4_2 how to take care of plants while you are away?
+    4_3 what is the domestic violence helpline?
+    4_4 how to deal with diabetes?
+    4_5 how to take care of plants while you are away?
+    4_6 how tall is the Empire State Building?
+    4_7 is tomato a fruit or vegetable?
+    4_8 what is gluten?
+    4_9 what is homecoming about?
+    4_10 what is Roblox?
+    4_11 what is the capital of spain?
+    4_12 what is the fourth book in the narnia series?
+    4_13 what is the longest word?
+    4_14 Do you like cats or dogs?
+    4_15 How deep is the Indian Ocean?
+    4_16 How far away is the moon?
+    4_17 How hot is the sun?
+    4_18 How many ounces in a pound?
+    4_19 how many seconds are in a year?
+    4_20 how many teaspoons are in a tablespoon?
+    4_21 How much does an elephant weigh?
+    4_22 How old are you?
+    4_23 How old is Henry Winkler?
+    4_24 how old is Serena Williams?
+    4_25 how tall is Steph Curry?
+    4_27 how tall is the Empire State Building?
+    4_28 Is a tomato a fruit or a vegetable?
+    4_29 Pick a number?
+    4_30 Surprise me.
+    4_31 Talk like a pirate.
+    4_32 Tell me a barbecue joke.
+    4_33 Tell me a coffee joke.
+    4_34 Tell me a fun fact.
+    4_35 Tell me a Halloween hack.
+    4_36 Tell me a joke.
+    4_37 Tell me a palindrome.
+    4_38 Tell me a Star Wars joke.
+    4_39 Tell me some good news.
+    4_40 Tell me something weird.
+    4_41 What are you thankful for?
+    4_42 What can you do?
+    4_43 What is gluten?
+    4_44 What is Homecoming about?
+    4_45 What is on your mind?
+    4_47 What is Roblox?
+    4_48 What is the capital of Spain?
+    4_49 What is the longest word?
+    4_50 What is your favourite flower？
+    4_51  What is your favorite game?
+    4_52 What is your favorite hobby？
+    4_53 What is your favorite sport?
+    4_54 What is your mission?
+    4_55 What is zero divided by zero?
+    4_56 Who do you love?
+    4_57 Who is in Mastodon?
+    4_58 Who is your favorite author?
+    4_59 Who is your favorite poet?
+    4_60 Who is your favorite superhero?
+    4_61 Why do leaves change color in the fall?
+ 
+
+
+5 Time Queries
+    5_1 what is the time in Singapore?
+    5_2 when is boxing day?
+    5_3 what is the date tomorrow?
+    5_4 how many days are in September?
+    5_5 How many days in a year?
+    5_6 How many days until Christmas?
+    5_7 How many days until Thanksgiving?
+    5_8 When does daylight saving time end?
+    5_9 When is Easter?
+    5_10 When is Hanukkah?
+    5_11 When is the next full moon?
+    5_12 What time is it?
+    
+
+    
+
+
+6 Financial Information & Stocks
+    6_1 how much is an ounce of Gold?
+    6_2 What is the price of bitcoin?
+
+7 Weather Forecast
+    7_1 what is the weather for Sunday?
+    7_2 what is the weather?
+    7_3 Will it rain tomorrow?
+
+8 Fun & Games
+    8_1 talk like a pirate.
+    8_2 tell me a fun fact.
+    8_3 Give me a dinosaur fact.
+    8_4 Flip a coin.
+    8_5 Give me a fun fact about sleep.
+    
+
+9 Cooking Assistance
+
+
+10 Local Information
+    10_1 what are the closest wedding ring shops?
+    10_2 where are the closest therapist?
+    10_3 where is the closest liquor store?
+    10_4 where can I buy a wedding ring?
+    10_5 where is the closest sperm bank?
+    10_6 what are some flower shops nearby?
+    10_7 what are good date spots around?
+    10_8 what are good restraunts nearby?
+    10_9 What are some flower shops nearby?
+    10_10 Where did Yoda live?
+    10_11 Where is Mount Rushmore?
+
+11 Language Translation
+    11_1 Translate good morning to Spanish.
+
+12 Sports Scores & Schedules
+    12_1 what are the standings in the english premier league?
+    12_2 what is the score of the Eagles game
+    12_3 what is the score of Red Sox game
+    12_4 when is the next F1 race?
+    12_5 when is the NBA all star game?
+    12_6 who is playing monday night football?
+    12_7 who is second in the NBA western conference?
+    12_8 How many fantasy points does LeBron James have?
+    12_9 What is my sports update?
+    12_10 What is the AFC North Standings?
+    12_11 What were yesterdays scores?
+    12_12 When is the NBA all star game?
+    12_13 Who is playing Monday Night Football?
+    12_14 Who is second in the NBA Western Conference?
+    12_15 Who is winning the World Series?
+    12_17 Who scored for the Golden Knights?
+
+13 Spelling
+    13_1 how do you spell appreciate?
+
+14 Travel
+    14_1 what to pack for a trip?
+    14_2 what are the good hotels in Las Vegas?
+
+15 Health
+    15_1 how to deal with anxiety?
+    15_2 how to feel less depressed?
+    15_3 what is the best headache medicine?
+
+
+16 Smart Home Control
+    16_1 What is brief mode?
+
+17 Traffic & Navigation
+    17_1 What is my traffic report?
+
+
+18 History
+    18_1 what is history of labor day?
+
+19 Entertainment & Media
+    19_1 what are the most popular books this week?
+    19_2 what movies are playing tonight?
+    19_3 What is the best comedy movie?
+    19_4 What is the fourth book in the Narnia series?
+    19_5 What is the scariest movie of all time?
+    19_6 What is the score of the Eagles game?
+    19_7 What is the score of the Red Sox game?
+    19_8 What movies are playing?
+    19_9 When does Game of Thrones return?
+    19_10 Who is nominated for best actor?
+    
+
+20 Current Events & Politics
+    20_1 what happened in the midterm elections?
+
+
+
+
