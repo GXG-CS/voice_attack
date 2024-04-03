@@ -69,5 +69,5 @@ if __name__ == "__main__":
     main()
 
 
-# python traffic_filter3.py --total_folder "../raw_data/traffic_W_raw" --base_outgoing_dir "../data_processed/traffic_W_outgoing" --base_incoming_dir "../data_processed/traffic_W_incoming" --alexa_ip "10.0.0.159" --vpn_ip "191.96.150.188"
+# python traffic_filter3.py --total_folder "../../raw_data/current_categories/traffic_W_raw" --base_outgoing_dir "../../data_processed/categories/categories_outgoing" --base_incoming_dir "../../data_processed/categories/categories_incoming" --alexa_ip "10.0.0.159" 
 # 

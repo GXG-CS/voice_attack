@@ -70,4 +70,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# python traffic_filter4.py --total_folder ../../data_processed/WiSec_unmonitored_trimmed_5 --base_outgoing_dir ../../data_processed/WiSec_unmonitored_trimmed_outgoing --base_incoming_dir ../../data_processed/WiSec_unmonitored_5_trimmed_incoming --config ../../config/WiSec_unmonitored.yaml
+# python traffic_filter4.py --total_folder ../../data_processed/WiSec_unmonitored_trimmed_5 --base_outgoing_dir ../../data_processed/categories/categories_ougoing --base_incoming_dir ../../data_processed/categories/categories_incoming --config ../../config/WiSec_unmonitored.yaml
