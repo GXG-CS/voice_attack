@@ -34,7 +34,7 @@ def play_audio(file):
     subprocess.call(["afplay", file])  # Adjust command based on the OS
     logging.info(f"Finished playing audio file: {file}")
 
-def combined_capture_control(ssh, audio_file, audio_dir, pcap_filename, max_duration=40, stop_audio='stop_signal_audio.wav', silence_threshold=4):
+def combined_capture_control(ssh, audio_file, audio_dir, pcap_filename, max_duration=60, stop_audio='stop_signal_audio.wav', silence_threshold=4):
     volume_threshold = 4
     start_time = datetime.now()
     last_sound_time = start_time
@@ -47,7 +47,7 @@ def combined_capture_control(ssh, audio_file, audio_dir, pcap_filename, max_dura
             last_sound_time = current_time
         # Check for silence duration exceeded
         if (current_time - last_sound_time).seconds > silence_threshold:
-            logging.info(f"Silence detected for {silence_threshold} seconds. Stopping capture.")
+            # logging.info(f"Silence detected for {silence_threshold} seconds. Stopping capture.")
             should_exit = True
         # Check for total duration exceeded
         if (current_time - start_time).seconds >= max_duration:
@@ -56,9 +56,10 @@ def combined_capture_control(ssh, audio_file, audio_dir, pcap_filename, max_dura
             should_exit = True
 
     with sd.InputStream(callback=audio_callback):
-        ssh.execute_command(f"nohup tcpdump -i eth0 -w {pcap_filename} > /dev/null 2>&1 &")
+        # ssh.execute_command(f"nohup tcpdump -i eth0 -w {pcap_filename} > /dev/null 2>&1 &")
         while not should_exit:
             time.sleep(1)
+        time.sleep(1)
 
     ssh.execute_command("ps | grep '[t]cpdump' | awk '{print $1}' | xargs -r kill -SIGINT")
     logging.info("Network traffic capture stopped.")
@@ -71,6 +72,9 @@ def play_and_capture_traffic(ssh, audio_file, audio_dir, repetition):
     ssh.execute_command(f"mount /dev/mmcblk0p3 /opt")
 
     pcap_filename = f"{pcap_dir}{repetition}.pcap"
+    
+    ssh.execute_command(f"nohup tcpdump -i eth0 -w {pcap_filename} > /dev/null 2>&1 &")
+
     play_audio(os.path.join(audio_dir, audio_file))
     combined_capture_control(ssh, audio_file, audio_dir, pcap_filename)
     logging.info(f"Finished playing and capturing for {audio_file}, repetition {repetition}")
