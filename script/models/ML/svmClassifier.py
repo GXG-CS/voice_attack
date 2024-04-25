@@ -7,7 +7,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report
 
 # Load the dataset
-data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
+data_path = '../../../data_processed/vc_200/alexa/combined_features.csv'
 data = pd.read_csv(data_path)
 
 # Replace infinities with NaN
