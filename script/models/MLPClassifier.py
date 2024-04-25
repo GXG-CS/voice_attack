@@ -1,74 +1,63 @@
-import pandas as pd
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.neural_network import MLPClassifier
-from sklearn.metrics import classification_report
-from sklearn.pipeline import Pipeline
 import numpy as np
+import pandas as pd
+from sklearn.model_selection import StratifiedKFold
+from sklearn.preprocessing import StandardScaler, LabelEncoder
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout
+from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.optimizers import Adam
+import multiprocessing
 
-# Function to load data, preprocess, and split
-def prepare_data(data_path):
-    print(f"Loading and preprocessing data from: {data_path}")
+def train_model(params):
+    num_units, dropout_rate, data_path = params
+    # Load and preprocess data inside the function
     data = pd.read_csv(data_path)
     data.replace([np.inf, -np.inf], np.nan, inplace=True)
     data.dropna(inplace=True)
-
+    X = data.drop('label', axis=1).values
+    y = data['label'].values
     label_encoder = LabelEncoder()
-    y_encoded = label_encoder.fit_transform(data['label'])
-    X = data.drop('label', axis=1)
+    y_encoded = label_encoder.fit_transform(y)
+    y_categorical = to_categorical(y_encoded)
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X)
 
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y_encoded, test_size=0.2, random_state=42)
+    kfold = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+    accuracies = []
+    fold_no = 1
     
-    print("Data preparation complete.")
-    return X_train, X_test, y_train, y_test
+    for train, test in kfold.split(X_scaled, y_encoded):
+        print(f"Starting training for configuration: {num_units} units, {dropout_rate} dropout rate, fold {fold_no}")
+        model = Sequential([
+            Dense(num_units, activation='relu', input_shape=(X_scaled.shape[1],)),
+            Dropout(dropout_rate),
+            Dense(num_units // 2, activation='relu'),
+            Dropout(dropout_rate),
+            Dense(y_categorical.shape[1], activation='softmax')
+        ])
+        model.compile(optimizer=Adam(learning_rate=0.001), loss='categorical_crossentropy', metrics=['accuracy'])
+        model.fit(X_scaled[train], y_categorical[train], epochs=2, batch_size=32, verbose=0)
+        _, accuracy = model.evaluate(X_scaled[test], y_categorical[test], verbose=0)
+        accuracies.append(accuracy * 100)  # Store accuracy as percentage
+        print(f"Finished fold {fold_no} with accuracy: {accuracy * 100:.2f}%")
+        fold_no += 1
 
-# Define a Pipeline
-pipeline = Pipeline([
-    ('scaler', StandardScaler()),
-    ('mlp', MLPClassifier(max_iter=1000, random_state=42))
-])
+    return num_units, dropout_rate, accuracies, np.mean(accuracies)
 
-# Parameter grid for GridSearchCV
-parameter_space = {
-    'mlp__hidden_layer_sizes': [(50,), (100,), (50,50), (100,100)],
-    'mlp__activation': ['tanh', 'relu'],
-    'mlp__solver': ['sgd', 'adam'],
-    'mlp__alpha': [0.0001, 0.05],
-    'mlp__learning_rate': ['constant', 'adaptive'],
-}
+if __name__ == '__main__':
+    data_path = '../features_extraction/IO.csv'
+    configurations = [(128, 0.5, data_path), (128, 0.3, data_path), (256, 0.5, data_path), (256, 0.3, data_path)]
 
-# Load data
-X_train, X_test, y_train, y_test = prepare_data('../features_extraction/IO.csv')
+    # Prepare arguments for multiprocessing
+    args = [(units, dropout, data_path) for units, dropout in [(128, 0.5), (128, 0.3), (256, 0.5), (256, 0.3)]]
 
-# Perform the grid search with 5-fold cross-validation and more verbose output
-def run_grid_search(X_train, y_train):
-    grid_search = GridSearchCV(pipeline, parameter_space, n_jobs=-1, cv=5, return_train_score=False)
-    print("Starting grid search...")
-    grid_search.fit(X_train, y_train)
-    print("Grid search complete.")
-    return grid_search
+    # Run in parallel
+    with multiprocessing.Pool(processes=len(args)) as pool:
+        results = pool.map(train_model, args)
 
-# Running the updated grid search
-grid_search = run_grid_search(X_train, y_train)
-print('Best parameters found:\n', grid_search.best_params_)
-
-# Print intermediate results
-means = grid_search.cv_results_['mean_test_score']
-stds = grid_search.cv_results_['std_test_score']
-params = grid_search.cv_results_['params']
-for mean, std, param in zip(means, stds, params):
-    print(f"Evaluated: {param}")
-    print(f"Mean test score: {mean:.3f} (Std: {std:.3f})")
-
-# Save the grid search results to a csv file
-results_df = pd.DataFrame(grid_search.cv_results_)
-results_df.to_csv('grid_search_results.csv', index=False)
-
-# Predict and print the classification report for the best estimator
-y_pred = grid_search.predict(X_test)
-report = classification_report(y_test, y_pred, output_dict=True)
-report_df = pd.DataFrame(report).transpose()
-report_df.to_csv('classification_report.csv', index=True)
-
-print(report_df)
+    # Structure the results and save them to a CSV file
+    results_df = pd.DataFrame(results, columns=['Num_Units', 'Dropout_Rate', 'Accuracies', 'Average_Accuracy'])
+    results_df['Accuracies'] = results_df['Accuracies'].apply(lambda x: str(x))
+    results_df.to_csv('mlp_cv_results.csv', index=False)
+    print("Cross-validation results with configurations saved to 'mlp_cv_results.csv'.")
+    print(results_df)
