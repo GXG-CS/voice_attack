@@ -126,7 +126,7 @@ def train_and_evaluate(args):
     
     for train, test in kfold.split(X_reshaped, y_encoded):
         model = create_model((1, X_reshaped.shape[2]), y_categorical.shape[1], lstm_units)
-        model.fit(X_reshaped[train], y_categorical[train], epochs=1, batch_size=32,
+        model.fit(X_reshaped[train], y_categorical[train], epochs=100, batch_size=32,
                   validation_data=(X_reshaped[test], y_categorical[test]), verbose=2,
                   callbacks=[EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)])
         scores = model.evaluate(X_reshaped[test], y_categorical[test], verbose=0)
