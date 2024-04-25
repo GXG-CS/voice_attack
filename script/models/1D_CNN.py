@@ -40,7 +40,7 @@ def train_model(params):
             Dense(y_categorical.shape[1], activation='softmax')
         ])
         model.compile(optimizer=Adam(learning_rate=0.001), loss='categorical_crossentropy', metrics=['accuracy'])
-        model.fit(X_reshaped[train], y_categorical[train], epochs=1, batch_size=32, verbose=0)
+        model.fit(X_reshaped[train], y_categorical[train], epochs=10, batch_size=32, verbose=0)
         _, accuracy = model.evaluate(X_reshaped[test], y_categorical[test], verbose=0)
         accuracies.append(accuracy * 100)  # Store accuracy as percentage
         print(f"Finished fold {fold_no} with accuracy: {accuracy * 100:.2f}%")
