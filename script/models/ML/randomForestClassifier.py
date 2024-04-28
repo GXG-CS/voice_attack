@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, accuracy_score, confusion_mat
 from sklearn.preprocessing import StandardScaler
 
 # Load the data
-data_path = '../../../data_processed/vc_200/alexa/total_features.csv'
+data_path = '/Users/xiaoguang_guo@mines.edu/Documents/voice_attack/script/features_extraction/IO.csv'
 data = pd.read_csv(data_path)
 
 # Check and handle infinite values and very large values

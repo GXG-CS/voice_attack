@@ -15,7 +15,7 @@ def top_k_accuracy_score(y_true, y_score, k=5):
     return np.mean([1 if y_true[i] in top_k[i] else 0 for i in range(len(y_true))])
 
 # Load your dataset
-data_path = '../../../data_processed/vc_200/alexa/total_features.csv'
+data_path = '/Users/xiaoguang_guo@mines.edu/Documents/voice_attack/script/features_extraction/IO.csv'
 data = pd.read_csv(data_path)
 
 # Replace infinities with NaN and drop rows with NaN values

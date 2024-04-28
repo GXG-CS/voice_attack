@@ -9,7 +9,7 @@ import numpy as np
 
 # Load dataset
 # data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_features2.csv'
-data_path = '../../data_processed/WiSec_unmonitored_trimmed_5_removeOutliers_features.csv'
+data_path = '/Users/xiaoguang_guo@mines.edu/Documents/voice_attack/script/features_extraction/IO.csv'
 data = pd.read_csv(data_path)
 
 # Handle infinite values
@@ -56,7 +56,7 @@ optimizer = Adam(learning_rate=0.001)  # Consider tuning the learning rate
 model.compile(loss='categorical_crossentropy', optimizer=optimizer, metrics=['accuracy'])
 
 # Adjusted training with verbose output to monitor progress
-model.fit(X_train, y_train, epochs=100, batch_size=32, validation_split=0.2, verbose=2)
+model.fit(X_train, y_train, epochs=10, batch_size=32, validation_split=0.2, verbose=2)
 # Evaluate the model
 _, accuracy = model.evaluate(X_test, y_test, verbose=0)
 print(f'Test accuracy: {accuracy:.4f}')

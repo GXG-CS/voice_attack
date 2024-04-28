@@ -56,7 +56,7 @@ def process_file(data_path):
         'XGBoost': XGBClassifier(random_state=42),
         # 'AdaBoost': AdaBoostClassifier(random_state=42),
         # 'GradientBoosting': GradientBoostingClassifier(random_state=42),
-        'MLPClassifier': MLPClassifier(random_state=42),
+        # 'MLPClassifier': MLPClassifier(random_state=42),
         # 'Bagging': BaggingClassifier(base_estimator=DecisionTreeClassifier(), random_state=42),
         'DecisionTree': DecisionTreeClassifier(random_state=42),
         'KNN': KNeighborsClassifier(),
@@ -110,9 +110,9 @@ def process_file(data_path):
 
 # Paths to CSV files
 data_paths = [
-    # '../features_extraction/incoming.csv',
-    # '../features_extraction/outgoing.csv',
-    # '../features_extraction/raw.csv',
+    '../features_extraction/incoming.csv',
+    '../features_extraction/outgoing.csv',
+    '../features_extraction/raw.csv',
     '../features_extraction/IO.csv',
 ]
 
