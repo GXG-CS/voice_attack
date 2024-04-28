@@ -1,1 +1,0 @@
-Alexa, play music for fifteen seconds and then stop. 
