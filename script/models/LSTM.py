@@ -53,15 +53,15 @@ def train_and_evaluate(args):
     }
 
 if __name__ == '__main__':
-    data_path = '../features_extraction/IO.csv'
+    data_path = '../features_extraction/IO_01s.csv'
     configurations = [
-        (64, 0.2, 0.001, data_path),
-        (64, 0.3, 0.001, data_path),
-        (128, 0.2, 0.001, data_path),
-        (128, 0.3, 0.001, data_path),
-        (128, 0.2, 0.01, data_path),
-        (128, 0.3, 0.01, data_path),
-        (256, 0.2, 0.001, data_path),
+        # (64, 0.2, 0.001, data_path),
+        # (64, 0.3, 0.001, data_path),
+        # (128, 0.2, 0.001, data_path),
+        # (128, 0.3, 0.001, data_path),
+        # (128, 0.2, 0.01, data_path),
+        # (128, 0.3, 0.01, data_path),
+        # (256, 0.2, 0.001, data_path),
         (256, 0.3, 0.001, data_path)
     ]
 
@@ -69,6 +69,6 @@ if __name__ == '__main__':
         results = pool.map(train_and_evaluate, configurations)
 
     results_df = pd.DataFrame(results)
-    results_df.to_csv('lstm_cv_results.csv', index=False)
+    results_df.to_csv('lstm_cv_results_01s.csv', index=False)
     print("Cross-validation results with extended configurations saved to 'lstm_cv_results_extended.csv'.")
     print(results_df)
