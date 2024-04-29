@@ -59,6 +59,6 @@ if __name__ == '__main__':
 
     results_df = pd.DataFrame(results, columns=['Num_Filters', 'Kernel_Size', 'Activation', 'Dropout_Rate', 'Learning_Rate', 'Accuracies', 'Average_Accuracy'])
     results_df['Accuracies'] = results_df['Accuracies'].apply(lambda x: str(x))
-    results_df.to_csv('cnn_cv_results.csv', index=False)
+    results_df.to_csv('mlp_cv_results.csv', index=False)
     print("Extended cross-validation results saved to 'cnn_cv_detailed_results.csv'.")
     print(results_df)
