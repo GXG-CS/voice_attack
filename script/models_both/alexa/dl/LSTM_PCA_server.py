@@ -53,7 +53,7 @@ def train_and_evaluate(args):
     }
 
 if __name__ == '__main__':
-    data_path = '../../../features_extraction/alexa/no_trim/IO_01s.csv'
+    data_path = '../../../features_extraction_both/alexa/no_trim/IO_01s.csv'
     configurations = [
         (256, 0.3, 0.001, data_path)
     ]
