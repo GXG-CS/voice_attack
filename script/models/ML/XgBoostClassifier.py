@@ -9,7 +9,7 @@ from imblearn.pipeline import Pipeline as ImbPipeline
 from imblearn.over_sampling import SMOTE
 
 # Load your dataset
-data_path = '../../../data_processed/vc_200/alexa/combined_features.csv'
+data_path = '/Users/xiaoguang_guo@mines.edu/Documents/voice_attack/script/features_extraction/IO.csv'
 data = pd.read_csv(data_path)
 
 print("Data Loaded Successfully. Data shape:", data.shape)

@@ -1,0 +1,2 @@
+LSTM Units,Dropout Rate,Learning Rate,Accuracy
+256,0.3,0.001,83.08612704277039
